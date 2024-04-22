@@ -29,21 +29,21 @@ title: Teams
 > Our group website: [https://usst222122164.github.io/](https://usst222122164.github.io/)
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
+<img src="https://caihanlin.com/images/teams/1.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
+<img src="https://caihanlin.com/images/teams/2.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
+<img src="https://caihanlin.com/images/teams/3.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
+<img src="https://caihanlin.com/images/teams/4.png">
 </div>
 <br>
