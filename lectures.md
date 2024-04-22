@@ -12,4 +12,8 @@ title: Publications
 
 - Understanding Dynamical Systems fromBig Data: A Behavioral Perspective<br>
 
-  
+  <div>
+  <img src="https://usst222122164.github.io/images/lectures/yitaoyan.jpg">
+  </div>
+
+<br>
