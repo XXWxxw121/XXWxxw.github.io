@@ -14,10 +14,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Apr 2021 - Present：**University of Shanghai for Science and Technology (Associate Professor)
+- **Aug 2018 - Jan 2021:** University of New South Wales (Postdoctoral)
+- **Aug 2017 - Aug 2018:** Griffith University (Research Associate)
+- **Nov 2015 - Jan 2016:** City University of Hong Kong (Research Associate)
+- **Sep 2011 - Mar 2017:** University of Shanghai for Science and Technology (PH.D.Candidate)
 
 ---
 
