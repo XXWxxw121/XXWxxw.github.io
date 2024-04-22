@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024 (under camera-ready modification).
+- A Novel Observability Gramian-Based SLAM<br> Yuru Hu, **Wangyan Li**, Guoliang Wei<br>The 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
 
   <br>
 
