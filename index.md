@@ -4,7 +4,7 @@ layout: page
 
 # LiLAB
 
-< img src="https://usst222122164.github.io/实验室logo.png" class="floatpic" width="900" height="150" style="display: block; margin: 0 auto;">
+<img src="https://usst222122164.github.io/实验室logo.png" class="floatpic" width="900" height="150">
 
 ## Introduction
 
