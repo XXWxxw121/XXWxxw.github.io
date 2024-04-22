@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://usst222122164.github.io/实验室logo.png" class="floatpic" width="360" height="480">
+<img src="https://usst222122164.github.io/实验室logo.png" class="floatpic" width="700" height="480">
 
 Here is **LiLAB (多源数据融合与分析实验中心)**.
 
