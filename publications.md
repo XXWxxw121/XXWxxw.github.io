@@ -9,6 +9,8 @@ title: Publications
 ## Conference Paper
 
 - A Novel Observability Gramian-Based SLAM<br> Yuru Hu, **Wangyan Li**, Guoliang Wei<br>The 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
+- Fault Detection for Nonlinear Process Using Data-Based Dissipativity
+in A Lifted Space<br> **Wangyan Li**, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang<br>The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))<br>Dalian, China. July, 2024.
 
   <br>
 
