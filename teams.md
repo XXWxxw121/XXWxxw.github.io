@@ -28,22 +28,9 @@ title: Teams
 
 > Our group website: [https://usst222122164.github.io/](https://usst222122164.github.io/)
 
-<div>
+<div class="second">
 <img src="https://usst222122164.github.io/images/1.jpg">
-</div>
-<br>
-
-<div>
 <img src="https://usst222122164.github.io/images/2.jpg">
 </div>
-<br>
 
-<div>
-<img src="https://usst222122164.github.io/images/3.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://usst222122164.github.io/images/4.png">
-</div>
 <br>
