@@ -8,14 +8,7 @@ title: Awards
 
 ## Honors
 
-- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
-- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
-- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
-- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
+- example
 
 ## Academic Activities
 
