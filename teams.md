@@ -36,7 +36,7 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 
 - **Members @2023:** Yuru Hu, Jian Song, Sirui Li, Lifeng Wu
 - **Members @2024:** Yu Xiang, Yanling Yang
-- **Members @2025:** [Join us!](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1)<br>
+- **Members @2025:** [Join us!](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)<br>
 
 ---
 
