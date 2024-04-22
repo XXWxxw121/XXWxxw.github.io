@@ -37,5 +37,5 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Updates
 
-- **May 2023：Our lab has been set up.
+- **May 2023：**Our lab has been set up.
 
