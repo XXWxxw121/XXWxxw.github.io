@@ -17,12 +17,7 @@ title: Awards
 - *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
 - *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
 
-## Services
+## Academic Activities
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- Memberships held: IEEE member, IEEE robotics and automation society
+- Reviewer for journals: *Automatica, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Control of Network Systems, IEEE Transactions on Aerospace & Electronic Systems*, et al.<br>
