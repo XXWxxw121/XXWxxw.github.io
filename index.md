@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# About LiLAB
 
 <img src="https://usst222122164.github.io/实验室logo.png" class="floatpic" width="1000" height="200">
 
