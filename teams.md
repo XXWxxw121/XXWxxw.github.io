@@ -12,9 +12,7 @@ title: Teams
 
 ## Our Fundings
 
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+- 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**Funding 30万元** (Grant No. 62103283)<br><br>
 
 ---
 
