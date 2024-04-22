@@ -12,7 +12,7 @@ title: Teams
 
 ## Our Fundings
 
-- 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**Funding 30万元** (Grant No. 62103283)<br><br>
+- 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**经费：30万元** (Grant No. 62103283)<br><br>
 
 ---
 
@@ -26,7 +26,7 @@ title: Teams
 
 ## Some Group Photos
 
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
+> Our group website: [https://usst222122164.github.io/](https://usst222122164.github.io/)
 
 <div>
 <img src="https://caihanlin.com/images/teams/teams1.jpg">
