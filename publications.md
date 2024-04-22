@@ -1,4 +1,3 @@
-![image](https://github.com/usst222122164/usst222122164.github.io/assets/167735582/14beb763-8cb4-4041-9d75-da71c6db7fee)---
 layout: page
 permalink: /publications/index.html
 title: Publications
