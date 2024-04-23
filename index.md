@@ -42,7 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - ### 2024-04-23
 
-2024年硕士研究生尚有一个名额，届时欢迎有兴趣的应届本科生联系 *Wangyan_Li@usst.edu.cn*
+  2024年硕士研究生尚有一个名额，届时欢迎有兴趣的应届本科生联系 *Wangyan_Li@usst.edu.cn*
 
 - ### 2024-04-21
 
