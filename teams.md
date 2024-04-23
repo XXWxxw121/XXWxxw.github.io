@@ -26,6 +26,9 @@ title: Teams
 
 ## Some Group Photos
 
+> <video id="video" controls="" preload="none"><source id="mp4" src="https://usst222122164.github.io/images/video/uav.mp4" type="video/mp4">
+> </video>
+>
 > Our group website: [https://usst222122164.github.io/](https://usst222122164.github.io/)
 
 <div class="second">
