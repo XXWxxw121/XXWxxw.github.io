@@ -27,14 +27,16 @@ title: Teams
 ## Some Group Photos
 
 > <div align="center">
-> 	<video width="50%" id="video" controls="" preload="none"><source id="mp4" src="https://usst222122164.github.io/images/video/uav.mp4" type="video/mp4">
+> 	<video width="70%" id="video" controls="" preload="none"><source id="mp4" src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
 > 	</video>
 > </div>
+>
 >
 > Our group website: [https://usst222122164.github.io/](https://usst222122164.github.io/)
 
 <div class="second">
-<img src="https://usst222122164.github.io/images/1.jpg">
-<img src="https://usst222122164.github.io/images/2.jpg">
+<img src="https://usst-lilab.github.io/images/1.jpg">
+<img src="https://usst-lilab.github.io/images/2.jpg">
 </div>
+
 <br>
