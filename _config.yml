@@ -2,7 +2,7 @@ title: LiLAB
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://usst222122164.github.io/
+url: https://usst-lilab.github.io/
 
 # Owner/author information
 owner:
@@ -10,7 +10,7 @@ owner:
   avatar: Wangyanli.png
   bio: 副教授，硕士生导师，上海市青年东方学者
   email: Wangyan_Li@usst.edu.cn
-  cv: https://usst222122164.github.io/file/CV.pdf
+  cv: https://usst-lilab.github.io/file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
   #github: GuangLun2000
