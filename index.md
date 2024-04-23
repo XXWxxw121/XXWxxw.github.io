@@ -47,7 +47,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - ### 2024-04-21
 
-  Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space<br> **Wangyan Li**, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang<br>The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))<br>Dalian, China. July, 2024.
+  Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space<br> Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))*, Dalian, China. July, 2024 接收。
 
 - ### 2024-03-18
 
