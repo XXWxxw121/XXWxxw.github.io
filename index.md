@@ -13,7 +13,8 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 Here is **LiLAB (多源数据融合与分析实验中心)**.
 - Leader: Wangyan Li
 
-Wangyan Li received his B.Sc. degree in electrical engineering and automation in 2010 from Yangzhou University, Yangzhou, China, and Ph.D degree in system analysis and integration from the University of Shanghai for Science and Technology, Shanghai, China in 2017. Dr. Li is currently an assosicate professor at the College of Science, University of Shanghai for Science and Technology. He was postdoctoral fellow with School of Chemical Engineering, UNSW, Sydney, Australia fromn August 2018 to January 2021. From August 2017 to August 2018, he was a research associate with Griffith School of Engineering, Griffith University, Gold Coast, Australia. From November 2015 to January 2016, he was a research associate with the Department of Mathematics, City University of Hong Kong, Hong Kong. He has published more than 20 papers in refereed international journals. He is also an active reviewer for many international journals. His current research interests include observability/detectability over sensor networks, plantwide fault detection and diagnosis, data-driven theory, and dissipativity theory.
+多源数据融合与分析实验中心（LiLab）成立于2023年5月15日，位于上海理工大学南校区（军工路334号）理学院2号楼306室。
+本实验中心致力于建设以智慧交通为载体，集物联网、数字孪生技术与智慧电网平台于一体的综合性多源数据融合与分析的实验中心。远期目标是打造一个涵盖关键技术开发，应用服务的高水平“多源数据融合与分析”技术创新团队，建设成国内行业领先，若干领域达到国际先进水平。目前主要聚焦于智慧交通实验平台的建设。
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *Wangyan_Li@usst.edu.cn*
 
