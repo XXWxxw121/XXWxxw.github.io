@@ -50,10 +50,4 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - ### 2024-03-18
 
-  Distributed Detection for Plantwide Processes With Randomly Occurring Faults<br>
-
-  Jian Song, **Wangyan Li**, Jie Bao<br>
-
-  The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))<br>
-
-  Shenzhen, China. May, 2024
+  Distributed Detection for Plantwide Processes With Randomly Occurring Faults<br>Jian Song, **Wangyan Li**, Jie Bao<br>The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))<br>Shenzhen, China. May, 2024
