@@ -18,10 +18,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
     <img src="https://usst-lilab.github.io/images/index/内景.jpg" width="300">
     <p>图1 实验室内景</p>
 </center>
-
-
-
-
 ---
 
 ## 实验室研究方向
