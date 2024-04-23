@@ -50,7 +50,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
   [*Chernoff fusion using observability Gramian-centric weighting*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)<br>
 
-  **Wangyan Li**, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang<br>
+  Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang<br>
   
   被*Information Sciences*接收。
 
