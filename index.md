@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div align="center">
-    <img src="https://usst222122164.github.io/实验室logo.png" width="1000" height="200">
+    <img src="https://usst222122164.github.io/实验室logo.png" width="900" height="150">
 </div>
 
 # LiLAB (多源数据融合与分析实验中心)
