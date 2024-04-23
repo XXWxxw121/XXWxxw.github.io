@@ -55,7 +55,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - ### 2024-02
 
-  Chernoff fusion using observability Gramian-centric weighting<br>
+  [Chernoff fusion using observability Gramian-centric weighting](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)<br>
 
   **Wangyan Li**, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang<br>
 
