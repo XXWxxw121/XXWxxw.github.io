@@ -38,17 +38,21 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - ### 2024-04-21
 
-   由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文*<u>Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space</u>*被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
+   由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文<br>
+
+  *Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
 
 
 - ### 2024-03-18
 
-  由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文*<u>Distributed Detection for Plantwide Processes With Randomly Occurring Faults</u>*被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))*接收。
+  由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文<br>
 
+  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))*接收。
 
 
 - ### 2024-02
 
-  由Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang共同完成的期刊论文[*<u>Chernoff fusion using observability Gramian-centric weighting</u>*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)被*Information Sciences*接收。
+  由Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang共同完成的期刊论文<br>
 
+  [*Chernoff fusion using observability Gramian-centric weighting*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)<br>被*Information Sciences*接收。
 
