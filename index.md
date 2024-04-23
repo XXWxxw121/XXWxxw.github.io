@@ -16,7 +16,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 <center class="half">
     <img src="https://usst-lilab.github.io/images/index/内景.jpg" width="300">
     <img src="https://usst-lilab.github.io/images/index/内景2.jpg" width="300">
-    <p>图1 实验室内景</p>
 </center>
 
 ---
