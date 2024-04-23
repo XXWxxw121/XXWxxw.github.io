@@ -8,6 +8,8 @@ layout: page
 
 # LiLAB (多源数据融合与分析实验中心)
 
+<img src="https://usst222122164.github.io/images/LiLAB.png" class="floatpic" width="360" height="480">
+
 Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led by [Prof. Wangyan Li](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm) at the University of Shanghai for Science and Technology (USST). Our group is affiliated with the College of Science. 
 
 ## Introduction
