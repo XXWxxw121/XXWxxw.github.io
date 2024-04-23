@@ -40,7 +40,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文<br>
 
-*Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
+Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
 
 ### 2024-03-18
 
