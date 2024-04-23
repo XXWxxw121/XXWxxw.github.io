@@ -14,8 +14,8 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 本实验中心致力于建设以智慧交通为载体，集物联网、数字孪生技术与智慧电网平台于一体的综合性多源数据融合与分析的实验中心。远期目标是打造一个涵盖关键技术开发，应用服务的高水平“多源数据融合与分析”技术创新团队，建设成国内行业领先，若干领域达到国际先进水平。目前主要聚焦于智慧交通实验平台的建设。
 
 <center class="half">
-    <img src="https://usst-lilab.github.io/images/index/内景.jpg" width="300">
     <img src="https://usst-lilab.github.io/images/index/内景2.jpg" width="300">
+    <img src="https://usst-lilab.github.io/images/index/内景.jpg" width="300">
 </center>
 
 
