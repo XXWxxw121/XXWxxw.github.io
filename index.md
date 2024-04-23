@@ -47,7 +47,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
   由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文<br>
 
-  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))*接收。
+  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA 2024](http://fasta2024.fasta.org.cn/))*接收。
 
 
 - ### 2024-02
