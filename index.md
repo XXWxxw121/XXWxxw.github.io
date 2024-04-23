@@ -32,27 +32,25 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 ## News and Updates
 
-- ### 2024-04-23
+### 2024-04-23
 
-  2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系 *Wangyan_Li@usst.edu.cn*
+2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系 *Wangyan_Li@usst.edu.cn*
 
-- ### 2024-04-21
+### 2024-04-21
 
-   由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文<br>
+由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文<br>
 
-  *Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
+*Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))* 接收。
 
+### 2024-03-18
 
-- ### 2024-03-18
+由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文<br>
 
-  由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文<br>
+*Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA 2024](http://fasta2024.fasta.org.cn/))*接收。
 
-  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA 2024](http://fasta2024.fasta.org.cn/))*接收。
+### 2024-02
 
+由Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang共同完成的期刊论文<br/>
 
-- ### 2024-02
-
-  由Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang共同完成的期刊论文<br/>
-
-  [*Chernoff fusion using observability Gramian-centric weighting*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)<br/>被*Information Sciences*接收。
+[*Chernoff fusion using observability Gramian-centric weighting*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=)<br/>被*Information Sciences*接收。
 
