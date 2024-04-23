@@ -36,20 +36,20 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - ### 2024-04-23
 
-  2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取研究生联系 *Wangyan_Li@usst.edu.cn*
+  2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系 *Wangyan_Li@usst.edu.cn*
 
 - ### 2024-04-21
 
-  会议论文
+   由Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang共同完成的会议论文<br>
 
-  *Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br> Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))*, Dalian, China. July, 2024 接收。
+  *Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space*<br>被*The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))*, Dalian, China. July, 2024 接收。
 
 
 - ### 2024-03-18
 
-  会议论文
+  由Jian Song, Wangyan Li, Jie Bao共同完成的会议论文<br>
 
-  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>Jian Song, Wangyan Li, Jie Bao<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))*, Shenzhen, China. May, 2024接收。
+  *Distributed Detection for Plantwide Processes With Randomly Occurring Faults*<br>被*The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA2024](http://fasta2024.fasta.org.cn/))*, Shenzhen, China. May, 2024接收。
 
 
 - ### 2024-02
