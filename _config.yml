@@ -47,10 +47,10 @@ links:
     url: /实验区/
   - title: Seminar/讨论班
     url: /讨论班/
-  - title: Downloads/资料下载
-    url: /downloads/
   - title: 学术交流
     url: /学术交流/
+  - title: Downloads/资料下载
+    url: /downloads/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
