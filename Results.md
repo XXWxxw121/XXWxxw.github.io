@@ -32,6 +32,10 @@ title: Our Results
 
 - A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<brThe 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
 
+#### 专著
+
+- 李忘言，[魏国亮.面向传感器网络的一致性卡尔曼滤波](https://item.jd.com/10085841806590.html). 北京：机械工业出版社，2023
+
 #### Our Fundings
 
 - 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**经费：30万元** (Grant No. 62103283)
