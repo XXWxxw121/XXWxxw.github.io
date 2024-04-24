@@ -20,9 +20,9 @@ Wangyan Li received his B.Sc. degree in electrical engineering and automation in
 
 ## Some Group Photos
 
-<div class="second">
-<img src="https://usst-lilab.github.io/images/1.jpg">
-<img src="https://usst-lilab.github.io/images/2.jpg">
+<div class="center">
+<img src="https://usst-lilab.github.io/images/teams/1.jpg">
 </div>
+
 
 <br>
