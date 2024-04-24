@@ -38,13 +38,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About US
     url: /
-  - title: Teams
+  - title: Our members
     url: /teams/
-  - title: Publications
+  - title: Our Results
     url: /publications/
-  - title: Awards
+  - title: 实验区
     url: /awards/
-  - title: Lectures
+  - title: Seminar/讨论班
     url: /lectures/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
