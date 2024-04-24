@@ -11,7 +11,7 @@ title: Our Results
 - **Li W.**, Wei G., Han F., Liu Y., Weighted average consensus-based unscented Kalman filtering, ***IEEE Transactions on Cybernetics***, 2015, 46(2): 558-567.（ESI highly cited paper）
 
 - **Li W.**, Yang F., Thiel D. V., Wei G., Minimal number of sensor nodes for distributed Kalman filtering, ***IEEE Transactions on Systems, Man, and Cybernetics: Systems***, 2022, 52(3): 1778–1786.
-- Li W., Wei G., Ho D. W., Ding D., A weightedly uniform detectability for sensor networks, ***IEEE Transactions on neural networks and learning systems***, 2018, 29(11): 5790-5796.
+- **Li W.**, Wei G., Ho D. W., Ding D., A weightedly uniform detectability for sensor networks, ***IEEE Transactions on neural networks and learning systems***, 2018, 29(11): 5790-5796.
 - **Li W.**, Yan Y., Bao J., Dissipativity-based distributed fault diagnosis for plantwide chemical processes, ***Journal of Process Control***, 2020, 96: 37-48.
 - **Li W.**, Yan Y, and Bao J, Data-Based Fault Diagnosis via Dissipativity-Shaping, ***IEEE Control Systems Letters***, 2023, 7: 484-489.
 - **Li W.**, Yang F., Wei G., A novel observability Gramian-based fast covariance intersection rule, ***IEEE Signal Processing Letters***, 2018, 25(10): 1570-1574.
