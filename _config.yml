@@ -46,11 +46,11 @@ links:
   - title: 实验区
     url: /实验区/
   - title: Seminar/讨论班
-    url: /lectures/
+    url: /Seminar/讨论班/
   - title: Downloads/资料下载
     url: /downloads/
-  - title: LAB Playground
-    url: /LAB Playground/
+  - title: 学术交流
+    url: /学术交流/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
