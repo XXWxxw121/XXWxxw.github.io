@@ -40,9 +40,9 @@ links:
   - title: About US
     url: /
   - title: Our members
-    url: /teams/
-  - title: Our Results
-    url: /publications/
+    url: /members/
+#  - title: Our Results
+ #   url: /Results/
   - title: 实验区
     url: /实验区/
   - title: Seminar/讨论班
