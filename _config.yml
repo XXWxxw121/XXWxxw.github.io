@@ -41,8 +41,8 @@ links:
     url: /
   - title: Our members
     url: /members/
-#  - title: Our Results
- #   url: /Results/
+  - title: Our Results
+    url: /Results/
   - title: 实验区
     url: /实验区/
   - title: Seminar/讨论班
