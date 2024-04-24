@@ -5,8 +5,10 @@ title: LAB Playground
 ---
 
 <div align="center">
-<img src="https://usst-lilab.github.io/images/LAB Playground/map.png">
+<img src="https://usst-lilab.github.io/images/LAB Playground/map1.png">
+<img src="https://usst-lilab.github.io/images/LAB Playground/map2.png">
 </div>
+
 #### 参加学术会议列表
 
 ##### 1. 胡玉如，第七届中国系统科学大会，*A Novel Observability Gramian-Based SLAM*，2023.5.19-5.21，重庆
