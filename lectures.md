@@ -6,9 +6,9 @@ title: Publications
 
 《多源数据融合与分析讨论班》与李佳珈老师联合主持：
 
-## 邀请报告
+### 邀请报告
 
-### 1. [Distributed Process Control Using Dissipativity Theory](https://lxy.usst.edu.cn/2023/0823/c6729a304218/page.htm)
+#### 1. [Distributed Process Control Using Dissipativity Theory](https://lxy.usst.edu.cn/2023/0823/c6729a304218/page.htm)
 
 - 报告人：Prof. Jie Bao, UNSW, Sydney
 
