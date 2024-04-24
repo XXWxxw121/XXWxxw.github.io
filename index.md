@@ -22,11 +22,11 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### 实验室研究方向
 
-1. Control Theory/Dissipativity
-2. Data-Driven
-3. Information Fusion/无人机
-4. Fault Diagnosis
-5. 医工交叉
+- Control Theory/Dissipativity
+- Data-Driven
+- Information Fusion/无人机
+- Fault Diagnosis
+- 医工交叉
 
 ---
 
