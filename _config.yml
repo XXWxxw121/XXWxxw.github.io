@@ -60,6 +60,8 @@ highlighter: rouge
 # markdown: redcarpet
 # pygments: true
 
+#Google Analytics
+google_analytics: G-6MT6PTXL2Q  # your google analytics
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
