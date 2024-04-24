@@ -17,15 +17,3 @@ title: Publications
   <div align="center">
   <img src="https://usst-lilab.github.io/images/1.jpg">
   </div>
-
-## 报告二
-
-- 报告人：Yitao Yan<br>
-
-- [Understanding Dynamical Systems fromBig Data: A Behavioral Perspective](https://lxy.usst.edu.cn/2023/1229/c6729a314109/page.htm)<br>
-
-  <div>
-  <img src="https://usst-lilab.github.io/images/lectures/yitaoyan.jpg">
-  </div>
-
-<br>
