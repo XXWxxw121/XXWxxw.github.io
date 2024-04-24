@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Seminar/讨论班/index.html
+permalink: /Seminar/index.html
 title: Seminar/讨论班
 ---
 
