@@ -4,7 +4,7 @@ permalink: /Results/index.html
 title: Our Results
 ---
 
-## Journal Papers
+#### Journal Papers
 
 - **Li W.**, Wang Z., Ho D. W., Wei G., On boundedness of error covariances of for Kalman consensus filtering problems, ***IEEE Transactions on Automatic Control***, 2019, 65(6): 2654-2661.
 
@@ -22,7 +22,7 @@ title: Our Results
 - Yao M., Wei G., Ding D., **Li W**, (2022). Output-feedback control for stochastic impulsive systems under Round-Robin protocol. ***Automatica***, 143, 110394.
 - **Li W.**, Hu Y., Wu L., Wei G., and Yang F., Chernoff fusion using observability Gramian-centric weighting, ***Information Sciences***, vol. 662, pp.120280, 2024.
 
-## Conference Papers
+#### Conference Papers
 
 - Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space<br> Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang<br>The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))<br>Dalian, China. July, 2024.
 
@@ -36,7 +36,7 @@ title: Our Results
 
 - A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<br>The 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
 
-## Our Fundings
+#### Our Fundings
 
 - 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**经费：30万元** (Grant No. 62103283)
 
