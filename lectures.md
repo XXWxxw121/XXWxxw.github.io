@@ -4,7 +4,21 @@ permalink: /lectures/index.html
 title: Publications
 ---
 
-《多源数据融合与分析讨论班》与李佳珈老师联合主持：
+《多源数据融合与分析讨论班》由李忘言老师与李佳珈老师联合主持。
+
+### 学生汇报
+
+#### 1. [Mixed K-Dissipativity and Stabilization to ISS for Impulsive Hybrid Systems](https://ieeexplore.ieee.org/document/7064779)
+
+- 宋健，4月5日
+
+#### 2. [Distributed trajectory estimation with privacy and communication constraints A two-stage distributed Gauss-Seidel approach](https://ieeexplore.ieee.org/abstract/document/7487736/)
+
+- 蔡洁，4月12日
+
+#### 3. [Optimizing DoS attack energy with imperfect acknowledgments and energy harvesting constraints in cyber-physical systems](https://www.sciencedirect.com/science/article/abs/pii/S0096300320307748)
+
+- 郭丽君，4月19日
 
 ### 邀请报告
 
