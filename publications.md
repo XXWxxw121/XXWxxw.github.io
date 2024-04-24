@@ -12,6 +12,10 @@ title: Publications
 
   <br>
 
+## Our Fundings
+
+- 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**经费：30万元** (Grant No. 62103283)<br><br>
+
 ## Working Manuscript
 
 - Fault Detection for Nonlinear Process Using Data-Based Dissipativity
