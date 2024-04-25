@@ -39,17 +39,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About US
     url: /
-  - title: Our members
+  - title:  members
     url: /members/
-  - title: Our Results
+  - title:  Results
     url: /Results/
   - title: 实验区
     url: /实验区/
-  - title: Seminar/讨论班
+  - title: Seminar
     url: /讨论班/
   - title: 学术交流
     url: /学术交流/
-  - title: Downloads/资料下载
+  - title: Downloads
     url: /downloads/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
