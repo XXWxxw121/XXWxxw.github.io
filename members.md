@@ -6,7 +6,7 @@ title: members
 
 #### LAB Leader
 
-####  (Wangyan Li 李忘言)
+####  （Wangyan Li 李忘言）
 
 <img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="200" height="150">
 
