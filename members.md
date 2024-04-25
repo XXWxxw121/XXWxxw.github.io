@@ -17,8 +17,8 @@ title: members
 
 #### Members
 
-- **Members @2023:** Yuru Hu, Jian Song, Sirui Li, Lifeng Wu
-- **Members @2024:** Yu Xiang, Yanling Yang
+- **Members @2023:** Yuru Hu (胡玉如), Jian Song (宋健), Sirui Li (李思睿), Lifeng Wu (吴励锋)
+- **Members @2024:** Yu Xiang (向宇), Yanling Yang (杨燕翎)
 - **Members @2025:** [Join us!](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)<br>
 
 ---
