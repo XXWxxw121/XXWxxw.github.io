@@ -8,9 +8,9 @@ title: members
 
 ####  （Wangyan Li 李忘言）
 
-<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="200" height="150">
-
 [上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)副教授，硕士生导师，上海市青年东方学者
+
+<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="200" height="150">
 
 - 金主爸爸：上海理工大学理学院数学系
 - 学术表现：[Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)，[ORCID: 0000-0002-0068-1059](https://orcid.org/0000-0002-0068-1059)
