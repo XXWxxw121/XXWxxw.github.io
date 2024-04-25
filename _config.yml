@@ -92,4 +92,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 analytics:
   provider               : "google-gtag" 
   google:
-    tracking_id          : G-S0N3SCQNY3
+    tracking_id          : G-ZB6CR6NWX6
