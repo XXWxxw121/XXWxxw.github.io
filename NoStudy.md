@@ -9,9 +9,5 @@ title: No Study Zone
 </div><br>
 
 <div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/2.jpg">
-</div><br>
-
-<div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/3.jpg">
 </div><br>
