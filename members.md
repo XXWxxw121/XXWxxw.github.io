@@ -6,7 +6,7 @@ title: members
 
 #### LAB Leader (Li Wangyan 李忘言)
 
-<img src="https://usst-lilab.github.io/Wangyanli.png" class="floatpic" width="350" height="400">
+<img src="https://usst-lilab.github.io/Wangyanli.png" class="floatpic" width="250" height="300">
 
 - 学术表现见：[Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)
 - 工作与学习经历见：[LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
