@@ -17,6 +17,10 @@ title: members
 
 ---
 
+<div class="center">
+<img src="https://usst-lilab.github.io/images/teams/life.jpg">
+</div>
+
 #### Members
 
 - **Members @2022:** Yuru Hu (胡玉如), Xiaomao Geng (耿小毛)
