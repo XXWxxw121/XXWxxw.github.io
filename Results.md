@@ -28,7 +28,7 @@ title: Our Results
 
   Shenzhen, China. May, 2024.
 
-  A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<brThe 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
+- A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<brThe 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
 
 #### 专著
 
