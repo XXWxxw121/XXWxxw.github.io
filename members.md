@@ -4,7 +4,7 @@ permalink: /members/index.html
 title: members
 ---
 
-#### LAB Leader (Li Wangyan 李忘言)
+#### LAB Leader (Wangyan Li 李忘言)
 
 <img src="https://usst-lilab.github.io/Wangyanli.png" class="floatpic" width="150" height="150">
 
