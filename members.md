@@ -8,11 +8,11 @@ title: members
 
 ####  Wangyan Li 李忘言
 
-[上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)副教授，硕士生导师，上海市青年东方学者
+<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="center" width="200" height="150">
 
-<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="200" height="150">
+副教授，硕士生导师，<br>上海市青年东方学者
 
-- 金主爸爸：上海理工大学理学院数学系
+- 金主爸爸：[上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)
 - 学术表现：[Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)，[ORCID: 0000-0002-0068-1059](https://orcid.org/0000-0002-0068-1059)
 - 工作与学习经历：[LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 吃喝玩乐：[小红书](https://www.xiaohongshu.com/user/profile/5fefb40a0000000001005894?xhsshare=WeixinSession&appuid=5fefb40a0000000001005894&apptime=1713936430)
