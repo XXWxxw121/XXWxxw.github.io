@@ -22,13 +22,8 @@ title: members
 - **Members @2024:** Yu Xiang (向宇), Yanling Yang (杨燕翎)
 - **Members @2025:** [Join us!](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)<br>
 
----
-
 #### Some Group Photos
 
 <div class="center">
 <img src="https://usst-lilab.github.io/images/teams/1.jpg">
 </div>
-
-
-<br>
