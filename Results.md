@@ -7,9 +7,7 @@ title: Our Results
 #### Journal Papers
 
 - **Li W.**, Wang Z., Ho D. W., Wei G., On boundedness of error covariances of for Kalman consensus filtering problems, ***IEEE Transactions on Automatic Control***, 2019, 65(6): 2654-2661.
-
 - **Li W.**, Wei G., Han F., Liu Y., Weighted average consensus-based unscented Kalman filtering, ***IEEE Transactions on Cybernetics***, 2015, 46(2): 558-567.（ESI highly cited paper）
-
 - **Li W.**, Yang F., Thiel D. V., Wei G., Minimal number of sensor nodes for distributed Kalman filtering, ***IEEE Transactions on Systems, Man, and Cybernetics: Systems***, 2022, 52(3): 1778–1786.
 - **Li W.**, Wei G., Ho D. W., Ding D., A weightedly uniform detectability for sensor networks, ***IEEE Transactions on neural networks and learning systems***, 2018, 29(11): 5790-5796.
 - **Li W.**, Yan Y., Bao J., Dissipativity-based distributed fault diagnosis for plantwide chemical processes, ***Journal of Process Control***, 2020, 96: 37-48.
