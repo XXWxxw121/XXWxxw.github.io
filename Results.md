@@ -28,7 +28,7 @@ title: Our Results
 
   Shenzhen, China. May, 2024.
 
-- A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<brThe 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
+  A Novel Observability Gramian-Based SLAM<br> Yuru Hu, Wangyan Li, Guoliang Wei<brThe 42nd Chinese Control Conference ([CCC 2023](https://ccc2023.nankai.edu.cn/))<br>Tianjin, China. July, 2023.
 
 #### 专著
 
@@ -37,11 +37,7 @@ title: Our Results
 #### Our Fundings
 
 - 国家自然科学基金青年基金项目 — 系统状态局部不可观（检）情形下分布式多源信息融合方法研究<br>**经费：30万元** (Grant No. 62103283)
-
 - 上海市高校特聘副教授岗位计划<br>**经费：30万元**
-
 - 上海高校青年教师培养资助计划<br>**经费：4万元**
-
 - 一流研究生教育引领计划-教材建设项目-智能优化理论与应用<br>**经费：5万元**
-
 - 高水平大学建设(代编)-学科建设-校内人才科研配套<br>**经费：35万元**
