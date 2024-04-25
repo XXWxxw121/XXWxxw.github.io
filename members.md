@@ -6,7 +6,7 @@ title: members
 
 #### LAB Leader (Wangyan Li 李忘言)
 
-<img src="https://usst-lilab.github.io/Wangyanli.png" class="floatpic" width="60" height="70">
+<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="60" height="70">
 
 [上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)副教授，硕士生导师，上海市青年东方学者
 
@@ -14,12 +14,6 @@ title: members
 - 工作与学习经历：[LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 吃喝玩乐：[小红书](https://www.xiaohongshu.com/user/profile/5fefb40a0000000001005894?xhsshare=WeixinSession&appuid=5fefb40a0000000001005894&apptime=1713936430)
 - 联系Email：<a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
-
----
-
-<div class="center">
-<img src="https://usst-lilab.github.io/images/teams/life.jpg">
-</div>
 
 #### Members
 
