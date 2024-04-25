@@ -6,7 +6,7 @@ title: members
 
 #### LAB Leader (Wangyan Li 李忘言)
 
-<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="60" height="70">
+<img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="200" height="150">
 
 [上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)副教授，硕士生导师，上海市青年东方学者
 
