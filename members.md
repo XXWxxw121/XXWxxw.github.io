@@ -10,7 +10,7 @@ title: members
 
 <img src="https://usst-lilab.github.io/images/teams/life.jpg" class="floatpic" width="360" height="480">
 
-​	副教授，硕士生导师，青年东方学者
+​	副教授，硕士生导师<br>青年东方学者
 
 - 金主爸爸：[上海理工大学理学院数学系](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm)
 - 工作与学习经历：[LinkedIn](https://www.linkedin.com/in/wangyan-li-69794692/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
