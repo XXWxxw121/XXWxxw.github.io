@@ -32,9 +32,13 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
-##### 2024-04-23
+##### 2024-04-25
 
 2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系 *Wangyan_Li@usst.edu.cn*
+
+##### 2024-04-25
+
+多源数据融合与分析实验中心官网试运行。
 
 ##### 2024-04-21
 
@@ -48,3 +52,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 由 Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang 共同完成的期刊论文 [*<u>Chernoff fusion using observability Gramian-centric weighting</u>*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=) 被 *Information Sciences* 接收。
 
+##### 2023-05
+
+多源数据融合与分析实验中心正式成立。
