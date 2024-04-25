@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /members/index.html
-title: Our members
+title: members
 ---
 
 #### LAB Leader (实验室室长)
