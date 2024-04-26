@@ -25,8 +25,9 @@ title: members
 <img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpicl" width="75" height="100">
 
 - Yu Xiang 向宇
-- 座右铭：幸运就在明天！
+- 研究方向：
 - Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
+- 座右铭：幸运就在明天！
 
 #### Some Group Photos
 
