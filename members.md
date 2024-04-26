@@ -30,7 +30,7 @@ title: members
 
   
 
-- 研究方向：
+- 研究方向：医工交叉
 
   
 
@@ -58,7 +58,7 @@ title: members
 
   
 
-- 研究方向：
+- 研究方向：Fault Detection
 
   
 
@@ -84,7 +84,7 @@ title: members
 
   
 
-- 研究方向：
+- 研究方向：无人机
 
   
 
@@ -110,7 +110,7 @@ title: members
 
   
 
-- 研究方向：
+- 研究方向：Fault Detection
 
   
 
@@ -136,7 +136,7 @@ title: members
 
   
 
-- 研究方向：
+- 研究方向：Fault Detection
 
   
 
