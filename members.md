@@ -26,6 +26,7 @@ title: members
 
 - Yu Xiang 向宇
 - 座右铭：幸运就在明天！
+- Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
 
 #### Some Group Photos
 
