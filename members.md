@@ -30,34 +30,6 @@ title: members
 
 ##### @2023
 
-<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpic" width="50" height="75">
-
-
-
-- Yu Xiang 向宇
-
-  
-
-- 研究方向：医工交叉
-
-  
-
-- 爱好：唱歌，吉他
-
-  
-
-- Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
-
-  
-
-- 座右铭：幸运就在明天！
-
-  
-
----
-
-
-
 <img src="https://usst-lilab.github.io/images/teams/yangyanling.jpg" class="floatpic" width="50" height="75">
 
 
@@ -79,6 +51,34 @@ title: members
   
 
 - 座右铭：你一定能够成为你想要去成为的人
+
+  
+
+---
+
+
+
+<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Yu Xiang 向宇
+
+  
+
+- 研究方向：医工交叉
+
+  
+
+- 爱好：唱歌，吉他
+
+  
+
+- Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
+
+  
+
+- 座右铭：幸运就在明天！
 
 
 
