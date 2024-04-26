@@ -34,6 +34,10 @@ title: members
 
   
 
+- 爱好：
+
+  
+
 - Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
 
   
