@@ -22,7 +22,7 @@ title: members
 
 ##### @2023
 
-<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpicl" width="75" height="100">
+<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpic" width="75" height="100">
 
 - Yu Xiang 向宇
 - 研究方向：
