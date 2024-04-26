@@ -154,7 +154,8 @@ title: members
 
 ##### @Alumni (毕业生)
 
-
+- Yuru Hu (胡玉如)
+- Xiaomao Geng (耿小毛)
 
 #### Some Group Photos
 
