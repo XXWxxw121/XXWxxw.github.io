@@ -29,6 +29,13 @@ title: members
 - Email：<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
 - 座右铭：幸运就在明天！
 
+<img src="https://usst-lilab.github.io/images/teams/yangyanling.jpg" class="floatpic" width="50" height="75">
+
+- Yangling Yang 杨燕翎
+- 研究方向：
+- Email：<a href="mailto:232142112@st.usst.edu.cn">232142112@st.usst.edu.cn
+- 座右铭：你一定能够成为你想要去成为的人
+
 #### Some Group Photos
 
 <div class="center">
