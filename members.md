@@ -72,7 +72,83 @@ title: members
 
 - 座右铭：你一定能够成为你想要去成为的人
 
+
+
+##### @2022
+
+<img src="https://usst-lilab.github.io/images/teams/wulifeng.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Lifeng Wu 吴励锋
+
   
+
+- 研究方向：
+
+  
+
+- 爱好：
+
+  
+
+- Email：<a href="mailto:222122144@st.usst.edu.cn">222122144@st.usst.edu.cn
+
+  
+
+- 座右铭：
+
+---
+
+
+
+<img src="https://usst-lilab.github.io/images/teams/songjian.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Jian Song 宋健
+
+  
+
+- 研究方向：
+
+  
+
+- 爱好：
+
+  
+
+- Email：<a href="mailto:222122164@st.usst.edu.cn">222122164@st.usst.edu.cn
+
+  
+
+- 座右铭：经事长智，历事成人
+
+---
+
+
+
+<img src="https://usst-lilab.github.io/images/teams/lisirui.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Sirui Li 李思睿
+
+  
+
+- 研究方向：
+
+  
+
+- 爱好：
+
+  
+
+- Email：<a href="mailto:222122136@st.usst.edu.cn">222122136@st.usst.edu.cn
+
+  
+
+- 座右铭：经事长智，历事成人
 
 #### Some Group Photos
 
