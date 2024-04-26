@@ -4,7 +4,7 @@ permalink: /NoStudy/index.html
 title: No Study Zone
 ---
 
-##### LiLAB 与 Their 朋友们
+##### LiLAB 与朋友们
 
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/1.jpg">
