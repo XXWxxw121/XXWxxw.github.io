@@ -118,7 +118,7 @@ title: members
 
   
 
-- 研究方向：Fault Detection
+- 研究方向：model-based fault diagnosis
 
   
 
@@ -144,7 +144,7 @@ title: members
 
   
 
-- 研究方向：Fault Detection
+- 研究方向：data-driven fault diagnosis
 
   
 
