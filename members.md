@@ -22,7 +22,7 @@ title: members
 
 ##### @2023
 
-<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpic" width="60" height="80">
+<img src="https://usst-lilab.github.io/images/teams/xiangyu.jpg" class="floatpicl" width="60" height="80">
 
 - Yu Xiang 向宇
 - 座右铭：幸运就在明天！
