@@ -152,6 +152,32 @@ title: members
 
 
 
+##### @本科生
+
+<img src="https://usst-lilab.github.io/images/teams/luoyaxin.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Yaxin Luo 罗雅歆
+
+  
+
+- 专业：数学
+
+  
+
+- 爱好：唱歌，跳舞，摄影
+
+  
+
+- Email：<a href="mailto:2222410405@st.usst.edu.cn">2222410405@st.usst.edu.cn
+
+  
+
+- 座右铭：生活想埋没我，不料我是颗种子
+
+
+
 ##### @Alumni (毕业生)
 
 - Yuru Hu (胡玉如)
