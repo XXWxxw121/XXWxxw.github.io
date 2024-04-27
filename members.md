@@ -16,7 +16,7 @@ title: members
 - 学术表现: [Google Scholar](https://scholar.google.com/citations?user=UemwIpIAAAAJ)，[ORCID: 0000-0002-0068-1059](https://orcid.org/0000-0002-0068-1059)
 - 不学无术表现: [小红书](https://www.xiaohongshu.com/user/profile/5fefb40a0000000001005894?xhsshare=WeixinSession&appuid=5fefb40a0000000001005894&apptime=1713936430)
 - <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">: <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
-- 座右铭: 质疑学生，理解学生，成为学生，超越学生
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 35px; height: 25px;">: 质疑学生，理解学生，成为学生，超越学生
 
 #### Members
 
