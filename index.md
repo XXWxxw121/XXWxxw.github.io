@@ -58,7 +58,7 @@ LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Confere
 
 ##### 2023-12
 
-由 Yuru Hu, Wangyan Li, Lifeng Wu, Zhensheng Yu 共同完成的期刊论文 *<u>An attack-resilient distributed extended Kalman consensus filtering with application to multi-UAV tracking problems</u>* 被 *Frontiers of Information Technology & Electronic Engineering* 接收。
+由 Yuru Hu, Wangyan Li, Lifeng Wu, Zhensheng Yu 共同完成的期刊论文 *<u>[An attack-resilient distributed extended Kalman consensus filtering with application to multi-UAV tracking problems](https://jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.2300621)</u>* 被 *Frontiers of Information Technology & Electronic Engineering* 接收。
 
 ##### 2023-06
 
