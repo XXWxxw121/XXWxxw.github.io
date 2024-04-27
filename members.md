@@ -42,7 +42,7 @@ title: members
 
   
 
-- 座右铭：你一定能够成为你想要去成为的人
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：你一定能够成为你想要去成为的人
 
   
 
@@ -70,7 +70,7 @@ title: members
 
   
 
-- 座右铭：幸运就在明天！
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：幸运就在明天！
 
 
 
@@ -96,7 +96,7 @@ title: members
 
   
 
-- 座右铭：恭谦温良，知行合一
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：恭谦温良，知行合一
 
 ---
 
@@ -122,7 +122,7 @@ title: members
 
   
 
-- 座右铭：经事长智，历事成人
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：经事长智，历事成人
 
 ---
 
@@ -148,7 +148,7 @@ title: members
 
   
 
-- 座右铭：凡是过往，皆为序章
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：凡是过往，皆为序章
 
 
 
@@ -174,7 +174,7 @@ title: members
 
   
 
-- 座右铭：生活想埋没我，不料我是颗种子
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> ：生活想埋没我，不料我是颗种子
 
 
 
