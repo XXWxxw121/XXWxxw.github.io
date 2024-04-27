@@ -62,7 +62,7 @@ LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Confere
 
 ##### 2023-06
 
-由 Yuru Hu, Wangyan Li, Lifeng Wu, Guoliang Wei 共同完成的会议论文 *<u>A Novel Observability Gramian-Based SLAM</u>* 被 *The 42nd Chinese Control Conference* ([CCC 2023](https://ccc2023.nankai.edu.cn/)) 接收。
+由 Yuru Hu, Wangyan Li, Lifeng Wu, Guoliang Wei 共同完成的会议论文 [*<u>A Novel Observability Gramian-Based SLAM</u>*](https://ieeexplore.ieee.org/abstract/document/10239782) 被 *The 42nd Chinese Control Conference* ([CCC 2023](https://ccc2023.nankai.edu.cn/)) 接收。
 
 ##### 2023-05
 
