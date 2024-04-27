@@ -8,8 +8,11 @@ title: Downloads
 
 - [Overleaf](https://www.overleaf.com/latex/templates/the-unofficial-latex-thesis-template-for-usst-shang-hai-li-gong-da-xue-fei-guan-fang-latexmo-ban/zwkphyybmjyv), developed by Wangyan Li.
 
-#### 2. [LAB Logo 原图下载](https://usst-lilab.github.io/file/LAB logo.png)
+#### 2.[上海理工大学理学院研究生学术成果要求及认定细则](https://lxy.usst.edu.cn/_upload/article/files/96/f7/b92529b8477d842915ff8a18c605/166ee643-c193-4827-ac5c-ae328304e881.pdf)
 
-#### 3. 常用软件与工具
+#### 3. [LAB Logo 原图下载](https://usst-lilab.github.io/file/LAB logo.png)
+
+#### 4. 常用软件与工具
 
 - [CVX](https://cvxr.com/cvx/)
+
