@@ -34,7 +34,7 @@ title: members
 
 
 
-- Yangling Yang 杨燕翎
+- Yanling Yang 杨燕翎
 
   
 
