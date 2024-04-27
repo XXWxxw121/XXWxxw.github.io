@@ -144,7 +144,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:222122136@st.usst.edu.cn"> 222122136@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2522124539@qq.com"> 2522124539@qq.com
 
   
 
