@@ -56,6 +56,10 @@ LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Confere
 
 由 Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang 共同完成的期刊论文 [*<u>Chernoff fusion using observability Gramian-centric weighting</u>*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=) 被 *Information Sciences* 接收。
 
+##### 2023-12
+
+由 Yuru Hu, Wangyan Li, Lifeng Wu, Zhensheng Yu 共同完成的期刊论文 *<u>An attack-resilient distributed extended Kalman consensus filtering with application to multi-UAV tracking problems</u>* 被 *Frontiers of Information Technology & Electronic Engineering* 接收。
+
 ##### 2023-06
 
 由 Yuru Hu, Wangyan Li, Lifeng Wu, Guoliang Wei 共同完成的会议论文 *<u>A Novel Observability Gramian-Based SLAM</u>* 被 *The 42nd Chinese Control Conference* ([CCC 2023](https://ccc2023.nankai.edu.cn/)) 接收。
