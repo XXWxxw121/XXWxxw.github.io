@@ -38,7 +38,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:232142112@st.usst.edu.cn">232142112@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:232142112@st.usst.edu.cn"> 232142112@st.usst.edu.cn
 
   
 
@@ -66,7 +66,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:232142130@st.usst.edu.cn">232142130@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:232142130@st.usst.edu.cn"> 232142130@st.usst.edu.cn
 
   
 
@@ -92,7 +92,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122144@st.usst.edu.cn">222122144@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122144@st.usst.edu.cn"> 222122144@st.usst.edu.cn
 
   
 
@@ -118,7 +118,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122164@st.usst.edu.cn">222122164@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122164@st.usst.edu.cn"> 222122164@st.usst.edu.cn
 
   
 
@@ -144,7 +144,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122136@st.usst.edu.cn">222122136@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:222122136@st.usst.edu.cn"> 222122136@st.usst.edu.cn
 
   
 
@@ -170,7 +170,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:2222410405@st.usst.edu.cn">2222410405@st.usst.edu.cn
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;">:<a href="mailto:2222410405@st.usst.edu.cn"> 2222410405@st.usst.edu.cn
 
   
 
