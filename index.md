@@ -50,7 +50,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 ##### 2024-02-26
 
-LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见[BAJC Conference](https://www.unsw.edu.au/news/2024/02/shen-lab-sends-delegates-to-bajc-conference-2024)。
+LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Conference](https://www.unsw.edu.au/news/2024/02/shen-lab-sends-delegates-to-bajc-conference-2024)。
 
 ##### 2024-02
 
