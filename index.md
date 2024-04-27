@@ -48,6 +48,10 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 由 Jian Song, Wangyan Li, Jie Bao 共同完成的会议论文 *<u>Distributed Detection for Plantwide Processes with Randomly Occurring Faults</u>* 被 *The 3rd Conference on Fully Actuated System Theory and Applications ([FASTA 2024](http://fasta2024.fasta.org.cn/))* 接收。
 
+##### 2024-02-26
+
+LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见[BAJC Conference](https://www.unsw.edu.au/news/2024/02/shen-lab-sends-delegates-to-bajc-conference-2024)。
+
 ##### 2024-02
 
 由 Wangyan Li, Yuru Hu, Lifeng Wu, Guoliang Wei, Fuwen Yang 共同完成的期刊论文 [*<u>Chernoff fusion using observability Gramian-centric weighting</u>*](https://www.sciencedirect.com/science/article/pii/S0020025524001932?via%3Dihub=) 被 *Information Sciences* 接收。
