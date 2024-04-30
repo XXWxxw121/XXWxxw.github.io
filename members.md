@@ -72,6 +72,8 @@ title: members
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 幸运就在明天！
 
+---
+
 
 
 ##### @2022
@@ -150,6 +152,8 @@ title: members
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 凡是过往，皆为序章
 
+---
+
 
 
 ##### @本科生
@@ -176,9 +180,9 @@ title: members
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 生活想埋没我，不料我是颗种子
 
+---
 
-
-##### @Alumni (毕业生)
+#### Alumni (毕业生)
 
 - Yuru Hu (胡玉如)
 - Xiaomao Geng (耿小毛)
