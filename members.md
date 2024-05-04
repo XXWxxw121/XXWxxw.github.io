@@ -187,6 +187,8 @@ title: members
 - Yuru Hu (胡玉如)
 - Xiaomao Geng (耿小毛)
 
+---
+
 #### Some Group Photos
 
 <div class="center">
