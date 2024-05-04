@@ -7,8 +7,9 @@ title: No Study Zone
 ##### LiLAB × Friends
 
 <div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/1.jpg">
+<img src="https://usst-lilab.github.io/images/NoStudy/5.jpg">
 </div><br>
+
 
 
 <div align="center">
