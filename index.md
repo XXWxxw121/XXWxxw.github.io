@@ -42,7 +42,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 <div align="center">
     <img src="https://usst-lilab.github.io/images/index/oneyear2.jpg" width="300"><br><br>
-</div><br>
+</div>
 
 ##### 2024-04-23
 
