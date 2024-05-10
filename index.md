@@ -41,8 +41,9 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 多源数据融合与分析实验中心（LiLAB）成立一周年。
 
 <div align="center">
-    <img src="https://usst-lilab.github.io/images/index/oneyear2.png" width="400"><br><br>
+    <img src="https://usst-lilab.github.io/images/index/oneyear2.png" width="600"><br><br>
 </div>
+
 
 ##### 2024-04-23
 
