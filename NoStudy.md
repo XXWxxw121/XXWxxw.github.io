@@ -4,6 +4,14 @@ permalink: /NoStudy/index.html
 title: No Study Zone
 ---
 
+##### LiLAB × Xiao Group
+
+###### @长白228街坊
+
+<div align="center">
+<img src="https://usst-lilab.github.io/images/NoStudy/228.jpg">
+</div><br>
+
 ##### LiLAB × Friends
 
 <div align="center">
