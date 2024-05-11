@@ -36,9 +36,13 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
-##### Promotion
+##### 2024-05-11 [会议推荐]
 
 [第9届亚太颗粒会议](https://www.apt2024.com/)将于12月在夏日的悉尼举行。诚挚地邀请各位前辈与同行朋友参与！[提交摘要](https://www.apt2024.com/abstractsubmission)的截止日期为5月21日。期待在多彩的悉尼与您相会🥰，共同探讨和交流🌈。
+
+##### 2024-05-10
+
+
 
 ##### 2024-05-09
 
