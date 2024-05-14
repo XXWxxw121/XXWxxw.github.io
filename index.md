@@ -42,7 +42,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 ##### 2024-05-10
 
-LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)。
+LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)，[Poster](https://usst-lilab.github.io/file/Poster.png)。
 
 ##### 2024-05-09
 
