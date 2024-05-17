@@ -32,6 +32,10 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
+##### 2024-05-17
+
+2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
+
 ##### 2024-05-16
 
 2021级硕士研究生毕业啦。
@@ -41,10 +45,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 </div>
 
 
-
-##### 2024-05-14
-
-2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
 ##### 2024-05-11 [会议推荐]
 
