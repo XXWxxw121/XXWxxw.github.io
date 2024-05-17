@@ -192,5 +192,6 @@ title: members
 #### Some Group Photos
 
 <div class="center">
+<img src="https://usst-lilab.github.io/images/teams/graduation.jpg">
 <img src="https://usst-lilab.github.io/images/teams/1.jpg">
 </div>
