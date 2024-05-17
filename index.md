@@ -37,7 +37,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 2021级硕士研究生毕业啦。
 
 <div align="center">
-    <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="500"><br><br>
+    <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="600"><br><br>
 </div>
 
 
