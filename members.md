@@ -154,8 +154,6 @@ title: members
 
 ---
 
-
-
 ##### @本科生
 
 <img src="https://usst-lilab.github.io/images/teams/luoyaxin.jpg" class="floatpic" width="50" height="75">
@@ -179,6 +177,32 @@ title: members
   
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 生活想埋没我，不料我是颗种子
+
+---
+
+
+
+<img src="https://usst-lilab.github.io/images/teams/lixinhao.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Xinhao Li 李鑫豪
+
+  
+
+- 专业：数学
+
+  
+
+- 爱好：游戏，学习
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2971592350@qq.com"> 2971592350@qq.com
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 比昨天更好一些，比明天更差一些
 
 ---
 
