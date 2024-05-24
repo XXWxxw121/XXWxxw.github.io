@@ -4,14 +4,9 @@ permalink: /NoStudy/index.html
 title: No Study Zone
 ---
 
-##### LiLAB × XGroup
+#### LiLAB × Friends
 
-###### @长白228街坊（2024.05.09）
-
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/228.jpg">
-</div><br>
-##### LiLAB × UNSW Computer Process Control Group
+##### LiLAB × [UNSW Computer Process Control Group](https://www.unsw.edu.au/research/computer-process-control-group)
 
 ###### 2024.03.18
 
@@ -19,6 +14,16 @@ title: No Study Zone
 <img src="https://usst-lilab.github.io/images/NoStudy/5.jpg">
 </div><br>
 
+
+
+##### LiLAB × X-Group
+
+###### @长白228街坊（2024.05.09）
+
+<div align="center">
+<img src="https://usst-lilab.github.io/images/NoStudy/228.jpg">
+</div><br>
+##### LiLAB + (Xiaozhen, Yaolei, Dou)
 
 ###### 2023.06.23
 
