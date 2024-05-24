@@ -38,7 +38,11 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 ##### 2024-05-16
 
-2021级硕士研究生毕业啦。
+李忘言老师课题组（李忘言、向宇、杨燕翎）和李佳珈老师课题组（李佳珈、徐曼）联合申报关于[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)项目获批。
+
+##### 2024-05-16
+
+祝贺2021级硕士研究生胡玉如、耿小毛同学顺利通过硕士论文答辩。
 
 <div align="center">
     <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="550"><br><br>
