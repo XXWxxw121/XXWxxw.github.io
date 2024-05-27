@@ -32,9 +32,13 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
-##### 2024-05-24
+##### 2024-05-27
 
 2024级硕士研究生招生尚有一个名额，欢迎有兴趣的拟录取的数学专业研究生联系  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
+
+##### 2024-05-23
+
+多源数据融合与分析实验中心官网正式上线。
 
 ##### 2024-05-22
 
@@ -47,20 +51,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 <div align="center">
     <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="550"><br><br>
 </div>
-
-
-##### 2024-05-14
-
-小如号试飞成功。
-
-<div>
-    <center>
-    <video width="95%" id="video" controls="" preload="none"><source id="mp4" src="https://usst-lilab.github.io/images/video/xiaoru.mp4" align="center" type="video/mp4">
-</video>
-    <br>
-        小如号试飞
-    </center>
-</div><br>
 
 
 
