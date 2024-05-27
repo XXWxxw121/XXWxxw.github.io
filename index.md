@@ -49,6 +49,21 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 </div>
 
 
+##### 2024-05-14
+
+小如号试飞成功。
+
+<div>
+    <center>
+    <video width="95%" id="video" controls="" preload="none"><source id="mp4" src="https://usst-lilab.github.io/images/video/xiaoru.mp4" align="center" type="video/mp4">
+</video>
+    <br>
+        小如号试飞
+    </center>
+</div>
+
+
+
 ##### 2024-05-10
 
 LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)，[Poster](https://usst-lilab.github.io/file/Poster.png)。
