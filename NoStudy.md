@@ -41,15 +41,9 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg">
 </div><br>
+---
+
+[更多](https://usst-lilab.github.io/images/NoStudy/bag2.jpg, https://usst-lilab.github.io/images/NoStudy/bag3.jpg)
 
 
 
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg">
-</div><br>
-
-
-
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg">
-</div><br>
