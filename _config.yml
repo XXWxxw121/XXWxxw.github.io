@@ -45,14 +45,15 @@ links:
     url: /实验区/
   - title: 教学
     url: /教学/
-  - title: Seminar
-    url: /讨论班/
   - title: 学术交流
     url: /学术交流/
-  - title: Downloads
-    url: /downloads/
+  - title: Seminar
+    url: /讨论班/
   - title: No Study Zone
     url: /NoStudy/
+  - title: Downloads
+    url: /downloads/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
