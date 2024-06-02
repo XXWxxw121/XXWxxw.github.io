@@ -55,12 +55,12 @@ title: Downloads
     <br><br>
     <button onclick="checkPassword()">提交</button>
     <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
-  </div>  <video id="video-player" style="display: none;" controls>
+  </div>  <video width="80%" id="video-player" style="display: none;" controls>
     <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
   </video><script>
     function checkPassword() {
       var enteredPassword = document.getElementById('password-input').value;
-      var correctPassword = '1234'; // 设置正确的密码
+      var correctPassword = 'usstlilab'; // 设置正确的密码
       if (enteredPassword === correctPassword) {
     document.getElementById('password-form').style.display = 'none';
     document.getElementById('video-player').style.display = 'block';
