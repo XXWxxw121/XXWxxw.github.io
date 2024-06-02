@@ -50,12 +50,13 @@ title: Downloads
 <body>
 
   <div id="password-form">
-    <h2>请输入密码以播放视频</h2>
+    <h6>请输入密码以播放视频</h6>
     <input type="password" id="password-input">
     <br><br>
     <button onclick="checkPassword()">提交</button>
     <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
   </div>  <video width="80%" id="video-player" style="display: none;" controls>
+
     <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
   </video><script>
     function checkPassword() {
