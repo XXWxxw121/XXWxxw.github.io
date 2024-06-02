@@ -1,5 +1,5 @@
 function checkPassword() {
-    const correctPassword = "1234";
+    const correctPassword = "1234";  // 这里设置你的密码
     const inputPassword = document.getElementById("password").value;
     const messageElement = document.getElementById("message");
 
