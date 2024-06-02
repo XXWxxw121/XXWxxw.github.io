@@ -50,15 +50,12 @@ title: Downloads
         <input type="password" id="password" placeholder="Enter Password">
         <button onclick="checkPassword()">Submit</button>
         <p id="message"></p>
-    </div>
-
-<div id="video-container" style="display:none;">
+    </div><div id="video-container" style="display:none;">
     <video width="320" height="240" controls>
         <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
-<script src="script22.js"></script>
-
-</body>
+<script src="script22.js"></script></body>
 </html>
+
