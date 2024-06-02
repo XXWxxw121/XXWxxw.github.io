@@ -1,5 +1,5 @@
 function checkPassword() {
-    const correctPassword = "your-password";
+    const correctPassword = "1234";
     const inputPassword = document.getElementById("password").value;
     const messageElement = document.getElementById("message");
 
