@@ -31,6 +31,34 @@ title: Downloads
 - 校园邮箱登录
   - [教师](https://mail.usst.edu.cn/)
   - [学生](https://edu.icoremail.net/coremail/)
-
 - [Overleaf](https://www.overleaf.com/)
 - [doi2bib](https://www.doi2bib.org/)
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video with Password</title>
+    <link rel="stylesheet" href="style22.css">
+</head>
+<body>
+    <div id="password-container">
+        <h2>Enter Password to View Video</h2>
+        <input type="password" id="password" placeholder="Enter Password">
+        <button onclick="checkPassword()">Submit</button>
+        <p id="message"></p>
+    </div>
+
+<div id="video-container" style="display:none;">
+    <video width="320" height="240" controls>
+        <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+<script src="script22.js"></script>
+
+</body>
+</html>
