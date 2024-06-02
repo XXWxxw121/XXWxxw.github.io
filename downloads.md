@@ -42,7 +42,7 @@ title: Downloads
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Video with Password</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style22.css">
 </head>
 <body>
     <div id="password-container">
@@ -52,6 +52,7 @@ title: Downloads
         <p id="message"></p>
     </div>
 
+
     <div id="video-container" style="display:none;">
         <video width="320" height="240" controls>
             <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
@@ -59,7 +60,7 @@ title: Downloads
         </video>
     </div>
     
-    <script src="script.js"></script>
+    <script src="script22.js"></script>
 </body>
 </html>
 
