@@ -36,25 +36,38 @@ title: Downloads
 
 
 
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video with Password</title>
-    <link rel="stylesheet" href="style22.css">
+  <title>视频密码验证</title>
+  <style>
+    #password-form {
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
 </head>
 <body>
-    <div id="password-container">
-        <h2>Enter Password to View Video</h2>
-        <input type="password" id="password" placeholder="Enter Password">
-        <button onclick="checkPassword()">Submit</button>
-        <p id="message"></p>
-    </div>
-    <div id="video-container" style="display:none;">
-    <video width="320" height="240" controls>
-        <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-<script src="script22.js"></script>
-</body>
 
+  <div id="password-form">
+    <h2>请输入密码以播放视频</h2>
+    <input type="password" id="password-input">
+    <br><br>
+    <button onclick="checkPassword()">提交</button>
+    <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
+  </div>  <video id="video-player" style="display: none;" controls>
+    <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
+  </video><script>
+    function checkPassword() {
+      var enteredPassword = document.getElementById('password-input').value;
+      var correctPassword = '1234'; // 设置正确的密码
+      if (enteredPassword === correctPassword) {
+    document.getElementById('password-form').style.display = 'none';
+    document.getElementById('video-player').style.display = 'block';
+    document.getElementById('video-player').play();
+  } else {
+    document.getElementById('error-message').style.display = 'block';
+  }
+}</script>
+</body>
+</html>
