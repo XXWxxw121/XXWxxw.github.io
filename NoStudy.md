@@ -44,29 +44,24 @@ title: No Study Zone
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
 
-
-<html>
-
-<head>
-    <style>
-        .slider-container {
+    <html>
+    <head>
+        <style>
+            .slider-container {
+                width: 100%;
+                overflow: hidden;
+            }
+            .slider {
+            display: flex;
             width: 100%;
-            overflow: hidden;
         }
-        .slider {
-        display: flex;
-        width: 100%;
-    }
-
     .slider img {
         width: 100%;
         height: auto;
     }
-</style>
-</head>
-<body>
-
-    <div class="slider-container">
+    </style>
+    </head>
+    <body><div class="slider-container">
         <div class="slider">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
@@ -126,7 +121,6 @@ title: No Study Zone
     }
     
     window.addEventListener('resize', resizeSlider);
-    resizeSlider();
-</script>
-</body>
-</html>
+    resizeSlider();</script>
+    </body>
+    </html>
