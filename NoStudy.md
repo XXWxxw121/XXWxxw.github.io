@@ -41,10 +41,8 @@ title: No Study Zone
 </div><br>
 
 
-
-
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -64,11 +62,14 @@ title: No Study Zone
         .slides {
             display: flex;
             transition: transform 0.5s ease-in-out;
+            width: 300%; /* Ensure slides are wide enough to contain all images */
         }
         .slides img {
             max-width: 100%;
+            max-height: 100%;
+            width: auto;
             height: auto;
-            display: block;
+            object-fit: contain; /* Maintain aspect ratio while fitting within container */
         }
         .navigation {
             position: absolute;
@@ -105,9 +106,7 @@ title: No Study Zone
                 <button id="next">&#10095;</button>
             </div>
         </div>
-        <p>More content here.</p>
     </div>
-
 
     <script>
         let currentIndex = 0;
@@ -126,7 +125,7 @@ title: No Study Zone
         });
     
         function updateSlidePosition() {
-            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
+            slides.style.transform = `translateX(-${currentIndex * (100 / totalImages)}%)`;
         }
     </script>
 </body>
