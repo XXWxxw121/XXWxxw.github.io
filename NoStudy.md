@@ -43,7 +43,8 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,12 +58,19 @@ title: No Study Zone
             align-items: center;
             height: 100vh;
             background-color: #f0f0f0;
+            flex-direction: column;
         }
 
+        .regular-images img {
+            max-width: 500px;
+            margin: 10px;
+        }
+    
         .slider-container {
             width: 80%;
             overflow: hidden;
             position: relative;
+            margin-top: 20px;
         }
     
         .slider {
@@ -98,6 +106,7 @@ title: No Study Zone
     </style>
 </head>
 <body>
+
     <div class="slider-container">
         <button class="arrow left" onclick="slide(-1)">&#10094;</button>
         <div class="slider">
@@ -107,7 +116,7 @@ title: No Study Zone
         </div>
         <button class="arrow right" onclick="slide(1)">&#10095;</button>
     </div>
-
+    
     <script>
         let currentIndex = 0;
     
