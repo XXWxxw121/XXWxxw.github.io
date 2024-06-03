@@ -57,7 +57,7 @@ title: No Study Zone
         .slider {
             position: relative;
             width: 100%;
-            max-width: 600px;
+            max-width: 600px; /* 轮播图最大宽度 */
             margin: auto;
             overflow: hidden;
         }
@@ -68,8 +68,11 @@ title: No Study Zone
         }
     
         .slides img {
-            width: 100%;
-            border: none;
+            width: 100%; /* 将图片宽度设置为容器的100% */
+            height: auto; /* 自动调整高度，保持比例 */
+            /* 如果需要设置固定大小，可以使用以下代码替换上面两行 */
+            /* width: 500px; */
+            /* height: 300px; */
         }
     
         .navigation {
@@ -105,7 +108,6 @@ title: No Study Zone
     </div>
 </div>
 
-
 <script>
     const slides = document.querySelector('.slides');
     const images = document.querySelectorAll('.slides img');
@@ -127,6 +129,9 @@ title: No Study Zone
         index = (index < images.length - 1) ? index + 1 : 0;
         showSlide(index);
     });
+    
+    // Adjust the slide position on window resize
+    window.addEventListener('resize', () => showSlide(index));
 </script>
 
 </body>
