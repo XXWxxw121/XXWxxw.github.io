@@ -96,6 +96,7 @@ title: No Study Zone
 
 <div class="slider">
     <div class="slides">
+        <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
         <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
         <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
     </div>
