@@ -101,8 +101,8 @@ title: No Study Zone
         <button class="arrow left" onclick="slide(-1)">&#10094;</button>
         <div class="slider">
             <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" align="center">
-            <img src="https://usst-lilab.github.io/images/NoStudy/bag.png" align="center">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" align="center">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag.png" align="center">
         </div>
         <button class="arrow right" onclick="slide(1)">&#10095;</button>
     </div>
