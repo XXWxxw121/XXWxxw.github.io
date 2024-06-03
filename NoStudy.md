@@ -33,18 +33,6 @@ title: No Study Zone
 </div><br>
 ##### LAB周边
 
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/4.jpg">
-</div><br>
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg">
-</div><br>
-<div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
-</div><br>
-
-
-
 <html lang="en">
 
 <head>
@@ -112,9 +100,9 @@ title: No Study Zone
     <div class="slider-container">
         <button class="arrow left" onclick="slide(-1)">&#10094;</button>
         <div class="slider">
+            <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" align="center">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag.png" align="center">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" align="center">
-            <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" align="center">
-            <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" align="center">
         </div>
         <button class="arrow right" onclick="slide(1)">&#10095;</button>
     </div>
