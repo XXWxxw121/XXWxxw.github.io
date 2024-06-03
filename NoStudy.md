@@ -44,83 +44,87 @@ title: No Study Zone
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
 
-    <html>
+    <html lang="en">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Image Slider</title>
         <style>
-            .slider-container {
+            * { box-sizing: border-box; }
+    
+            .slider {
+                position: relative;
                 width: 100%;
+                max-width: 600px;
+                margin: auto;
                 overflow: hidden;
             }
-            .slider {
-            display: flex;
-            width: 100%;
-        }
-    .slider img {
-        width: 100%;
-        height: auto;
-    }
-    </style>
+    
+            .slides {
+                display: flex;
+                transition: transform 0.5s ease-in-out;
+            }
+    
+            .slides img {
+                width: 100%;
+                border: none;
+            }
+    
+            .navigation {
+                position: absolute;
+                top: 50%;
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                transform: translateY(-50%);
+            }
+    
+            .prev, .next {
+                background-color: rgba(0, 0, 0, 0.5);
+                color: white;
+                border: none;
+                padding: 10px;
+                cursor: pointer;
+                font-size: 18px;
+            }
+        </style>
     </head>
-    <body><div class="slider-container">
-        <div class="slider">
+    <body>
+    
+    <div class="slider">
+        <div class="slides">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
         </div>
-    </div><script>
-    var sliderContainer = document.querySelector('.slider-container');
-    var slider = document.querySelector('.slider');
-    var isDragging = false;
-    var startPosition = 0;
-    var currentTranslate = 0;
-    var prevTranslate = 0;
+        <div class="navigation">
+            <button class="prev">&#10094;</button>
+            <button class="next">&#10095;</button>
+        </div>
+    </div>
     
-    slider.addEventListener('mousedown', startDragging);
-    slider.addEventListener('mousemove', drag);
-    slider.addEventListener('mouseup', stopDragging);
-    slider.addEventListener('mouseleave', stopDragging);
-    slider.addEventListener('touchstart', startDragging);
-    slider.addEventListener('touchmove', drag);
-    slider.addEventListener('touchend', stopDragging);
-    slider.addEventListener('touchcancel', stopDragging);
+    <script>
+        const slides = document.querySelector('.slides');
+        const images = document.querySelectorAll('.slides img');
+        const prev = document.querySelector('.prev');
+        const next = document.querySelector('.next');
+        let index = 0;
     
-    function startDragging(event) {
-        if (event.type === 'touchstart') {
-            startPosition = event.touches[0].clientX;
-        } else {
-            startPosition = event.clientX;
-            event.preventDefault();
+        function showSlide(idx) {
+            const width = images[0].clientWidth;
+            slides.style.transform = `translateX(${-width * idx}px)`;
         }
     
-        isDragging = true;
-    }
+        prev.addEventListener('click', () => {
+            index = (index > 0) ? index - 1 : images.length - 1;
+            showSlide(index);
+        });
     
-    function drag(event) {
-        if (isDragging) {
-            var currentPosition = event.type === 'touchmove' ? event.touches[0].clientX : event.clientX;
-            currentTranslate = prevTranslate + currentPosition - startPosition;
-        }
-    }
+        next.addEventListener('click', () => {
+            index = (index < images.length - 1) ? index + 1 : 0;
+            showSlide(index);
+        });
+    </script>
     
-    function stopDragging() {
-        isDragging = false;
-        prevTranslate = currentTranslate;
-    }
-    
-    function updateSliderPosition() {
-        slider.style.transform = 'translateX(' + currentTranslate + 'px)';
-    }
-    
-    function resizeSlider() {
-        var slideWidth = sliderContainer.offsetWidth;
-        var totalTranslate = (slider.children.length - 1) * slideWidth;
-        currentTranslate = Math.max(-totalTranslate, Math.min(0, currentTranslate));
-    
-        slider.style.width = slideWidth * slider.children.length + 'px';
-        updateSliderPosition();
-    }
-    
-    window.addEventListener('resize', resizeSlider);
-    resizeSlider();</script>
     </body>
     </html>
