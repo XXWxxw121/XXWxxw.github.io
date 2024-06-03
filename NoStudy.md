@@ -43,99 +43,91 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Slider</title>
     <style>
-        * { box-sizing: border-box; }
-
-
-        .slider {
-            position: relative;
-            width: 100%;
-            max-width: 600px; /* 轮播图最大宽度 */
-            margin: auto;
-            overflow: hidden;
-        }
-    
-        .slides {
-            display: inline-flex;
+        body {
+            margin: 0;
+            display: flex;
             justify-content: center;
             align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+
+        .slider-container {
+            width: 80%;
+            overflow: hidden;
+            position: relative;
+        }
+    
+        .slider {
+            display: flex;
             transition: transform 0.5s ease-in-out;
         }
     
-        .slides img {
-            max-width: 100%;
-            max-height: 100%;
+        .slider img {
+            width: 100%;
+            max-width: 300px;
+            margin: 0 10px;
+            flex-shrink: 0;
         }
     
-        .navigation {
+        .arrow {
             position: absolute;
             top: 50%;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
             transform: translateY(-50%);
-        }
-    
-        .prev, .next {
             background-color: rgba(0, 0, 0, 0.5);
             color: white;
             border: none;
             padding: 10px;
             cursor: pointer;
-            font-size: 18px;
+        }
+    
+        .arrow.left {
+            left: 10px;
+        }
+    
+        .arrow.right {
+            right: 10px;
         }
     </style>
 </head>
 <body>
-
-<div class="slider">
-    <div class="slides">
-        <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
-        <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
-        <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
+    <div class="slider-container">
+        <button class="arrow left" onclick="slide(-1)">&#10094;</button>
+        <div class="slider">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
+        </div>
+        <button class="arrow right" onclick="slide(1)">&#10095;</button>
     </div>
-    <div class="navigation">
-        <button class="prev">&#10094;</button>
-        <button class="next">&#10095;</button>
-    </div>
-</div>
 
-
-<script>
-    const slides = document.querySelector('.slides');
-    const images = document.querySelectorAll('.slides img');
-    const prev = document.querySelector('.prev');
-    const next = document.querySelector('.next');
-    let index = 0;
-
-    function showSlide(idx) {
-        // 计算当前索引图片的左边距，确保图片居中显示
-        const offset = Array.from(images)
-            .slice(0, idx)
-            .reduce((acc, img) => acc + img.clientWidth, 0);
-        slides.style.transform = `translateX(${-offset}px)`;
-    }
+    <script>
+        let currentIndex = 0;
     
-    prev.addEventListener('click', () => {
-        index = (index > 0) ? index - 1 : images.length - 1;
-        showSlide(index);
-    });
+        function slide(direction) {
+            const slider = document.querySelector('.slider');
+            const images = document.querySelectorAll('.slider img');
+            const totalImages = images.length;
+            const imageWidth = images[0].clientWidth + 20; // Including margin
     
-    next.addEventListener('click', () => {
-        index = (index < images.length - 1) ? index + 1 : 0;
-        showSlide(index);
-    });
+            currentIndex += direction;
     
-    // Adjust the slide position on window resize
-    window.addEventListener('resize', () => showSlide(index));
-</script>
-
+            if (currentIndex < 0) {
+                currentIndex = totalImages - 1;
+            } else if (currentIndex >= totalImages) {
+                currentIndex = 0;
+            }
+    
+            slider.style.transform = `translateX(${-currentIndex * imageWidth}px)`;
+        }
+    </script>
 </body>
 </html>
 
