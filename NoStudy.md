@@ -69,22 +69,23 @@ title: No Study Zone
         }
     
         .slider-container {
-            width: 400px; /* Set to the width of one image */
-            overflow: hidden;
-            position: relative;
-            margin-top: 20px;
-        }
+        width: 500px; /* Adjust to fit the largest image width */
+        overflow: hidden;
+        position: relative;
+        margin-top: 20px;
+    }
     
-        .slider {
-            display: flex;
-            transition: transform 0.5s ease-in-out;
-        }
+    .slider {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+    }
     
-        .slider img {
-            width: 100%;
-            max-width: 400px;
-            flex-shrink: 0;
-        }
+    .slider img {
+        width: 100%;
+        max-width: 500px; /* Adjust to fit the largest image width */
+        flex-shrink: 0;
+        object-fit: contain; /* Preserve aspect ratio */
+    }
     
         .arrow {
             position: absolute;
