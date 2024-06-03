@@ -45,7 +45,6 @@ title: No Study Zone
 </div><br>
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,12 +67,7 @@ title: No Study Zone
         }
     
         .slides img {
-            /* 将图片宽度设置为容器的100% */
-            width: 100%;
-            /* 设置图片高度为固定值，确保图片在滑动前不会重叠 */
-            height: 300px; 
-            /* 保持图片宽高比例，避免拉伸 */
-            object-fit: cover;
+            /* 不设置固定宽度和高度，保持原始尺寸 */
         }
     
         .navigation {
@@ -118,6 +112,7 @@ title: No Study Zone
     let index = 0;
 
     function showSlide(idx) {
+        // 计算当前索引图片的左边距，确保图片居中显示
         const offset = Array.from(images)
             .slice(0, idx)
             .reduce((acc, img) => acc + img.clientWidth, 0);
@@ -134,6 +129,7 @@ title: No Study Zone
         showSlide(index);
     });
     
+    // Adjust the slide position on window resize
     window.addEventListener('resize', () => showSlide(index));
 </script>
 
