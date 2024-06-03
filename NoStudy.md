@@ -61,11 +61,18 @@ title: No Study Zone
         .slides {
             display: flex;
             transition: transform 0.5s ease-in-out;
-            width: 300%; /* Ensure slides are wide enough to contain all images */
         }
-        .slides img {
-            width: 100%;
+        .slide {
+            min-width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .slide img {
+            max-width: 100%;
+            max-height: 100vh;
             height: auto;
+            width: auto;
             object-fit: contain; /* Maintain aspect ratio */
         }
         .navigation {
@@ -94,9 +101,15 @@ title: No Study Zone
     <div class="content">
         <div class="slider-container">
             <div class="slides">
-                <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
-                <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
-                <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
+                </div>
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
+                </div>
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
+                </div>
             </div>
             <div class="navigation">
                 <button id="prev">&#10094;</button>
@@ -108,21 +121,21 @@ title: No Study Zone
     <script>
         let currentIndex = 0;
         const slides = document.querySelector('.slides');
-        const images = document.querySelectorAll('.slides img');
-        const totalImages = images.length;
+        const slideElements = document.querySelectorAll('.slide');
+        const totalSlides = slideElements.length;
     
         document.getElementById('next').addEventListener('click', () => {
-            currentIndex = (currentIndex + 1) % totalImages;
+            currentIndex = (currentIndex + 1) % totalSlides;
             updateSlidePosition();
         });
     
         document.getElementById('prev').addEventListener('click', () => {
-            currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+            currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
             updateSlidePosition();
         });
     
         function updateSlidePosition() {
-            slides.style.transform = `translateX(-${currentIndex * (100 / totalImages)}%)`;
+            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
         }
     </script>
 </body>
