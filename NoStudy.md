@@ -44,12 +44,14 @@ title: No Study Zone
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Slider</title>
     <style>
         * { box-sizing: border-box; }
+
 
         .slider {
             position: relative;
@@ -94,7 +96,6 @@ title: No Study Zone
 
 <div class="slider">
     <div class="slides">
-        <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
         <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
         <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
     </div>
