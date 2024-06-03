@@ -70,10 +70,9 @@ title: No Study Zone
     
         .slides img {
             width: 70%; /* 将图片宽度设置为容器的100% */
-            height: auto; /* 自动调整高度，保持比例 */
             /* 如果需要设置固定大小，可以使用以下代码替换上面两行 */
             /* width: 500px; */
-            /* height: 300px; */
+            height: 300px; */
         }
     
         .navigation {
