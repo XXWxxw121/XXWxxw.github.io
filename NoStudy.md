@@ -41,7 +41,6 @@ title: No Study Zone
 </div><br>
 
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
