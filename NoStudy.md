@@ -38,9 +38,7 @@ title: No Study Zone
 </div><br>
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg">
-</div><br>
-
-
+</div><br>
 
 
 <html lang="en">
@@ -63,11 +61,12 @@ title: No Study Zone
         .slides {
             display: flex;
             transition: transform 0.5s ease-in-out;
+            width: 300%; /* Ensure slides are wide enough to contain all images */
         }
         .slides img {
-            max-width: 100%;
+            width: 100%;
             height: auto;
-            display: block;
+            object-fit: contain; /* Maintain aspect ratio */
         }
         .navigation {
             position: absolute;
@@ -123,8 +122,15 @@ title: No Study Zone
         });
     
         function updateSlidePosition() {
-            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
+            slides.style.transform = `translateX(-${currentIndex * (100 / totalImages)}%)`;
         }
     </script>
 </body>
 </html>
+
+
+
+
+
+
+
