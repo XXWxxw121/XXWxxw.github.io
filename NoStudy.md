@@ -41,68 +41,98 @@ title: No Study Zone
 </div><br>
 
 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Image Slider</title>
-  <style>
-    .slider-container {
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-      position: relative;
-    }
 
-    .slider-container img {
-      width: auto;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      opacity: 0;
-      transition: opacity 0.3s ease-in-out;
-    }
-    
-    .slider-container img.active {
-      opacity: 1;
-    }
-  </style>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .slider {
+            position: relative;
+            max-width: 80%;
+            margin: auto;
+            overflow: hidden;
+            border: 1px solid #ddd;
+            background: #fff;
+        }
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+        .slides img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+        .navigation {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+        }
+        .navigation button {
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        .navigation button:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+    </style>
 </head>
 <body>
-  <div class="slider-container">
-    <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
-    <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
-    <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
-  </div>
+    <div class="slider">
+        <div class="slides">
+            <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
+        </div>
+        <div class="navigation">
+            <button id="prev">&#10094;</button>
+            <button id="next">&#10095;</button>
+        </div>
+    </div>
 
-  <script>
-    var images = document.querySelectorAll('.slider-container img');
-    var currentIndex = 0;
-
-    function showImage(index) {
-      if (index < 0) {
-        index = images.length - 1;
-      } else if (index >= images.length) {
-        index = 0;
-      }
+    <script>
+        let currentIndex = 0;
+        const slides = document.querySelector('.slides');
+        const images = document.querySelectorAll('.slides img');
+        const totalImages = images.length;
     
-      images.forEach(function(image) {
-        image.classList.remove('active');
-      });
+        document.getElementById('next').addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % totalImages;
+            updateSlidePosition();
+        });
     
-      images[index].classList.add('active');
-      currentIndex = index;
-    }
+        document.getElementById('prev').addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+            updateSlidePosition();
+        });
     
-    document.addEventListener('keydown', function(event) {
-      if (event.keyCode === 37) {
-        showImage(currentIndex - 1);
-      } else if (event.keyCode === 39) {
-        showImage(currentIndex + 1);
-      }
-    });
-    
-    showImage(currentIndex);
-  </script>
+        function updateSlidePosition() {
+            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
+        }
+    </script>
 </body>
 </html>
