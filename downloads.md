@@ -6,8 +6,8 @@ title: Downloads
 
 #### 1. LAB Logo 原图下载
 
-- Logo图，<img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:10%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
-- LiLAB，<img src="https://usst-lilab.github.io/file/LiLAB.png" style="zoom:10%;">，[download](https://usst-lilab.github.io/file/LiLAB.png)
+- Logo图，<img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:7%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
+- LiLAB，<img src="https://usst-lilab.github.io/file/LiLAB.png" style="zoom:7%;">，[download](https://usst-lilab.github.io/file/LiLAB.png)
 - 二维码，<img src="https://usst-lilab.github.io/file/QR code.png" style="zoom:10%;">，[dowload](https://usst-lilab.github.io/file/QR code.png)
 
 #### 2. 常用软件与工具
