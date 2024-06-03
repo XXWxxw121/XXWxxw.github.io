@@ -8,7 +8,7 @@ title: Downloads
 
 <img src="https://usst-lilab.github.io/file/LAB logo.png" align="center" style="zoom:5%;">
 
-- Logo图，[download](https://usst-lilab.github.io/file/LAB logo.png)
+- Logo图，<img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:5%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
 - LiLAB，[download](https://usst-lilab.github.io/file/LiLAB.png)
 - 二维码，[dowload](https://usst-lilab.github.io/file/QR code.png)
 
