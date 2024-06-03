@@ -43,8 +43,6 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,12 +60,15 @@ title: No Study Zone
         }
     
         .slides {
-            display: flex;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
             transition: transform 0.5s ease-in-out;
         }
     
         .slides img {
-            /* 不设置固定宽度和高度，保持原始尺寸 */
+            max-width: 100%;
+            max-height: 100%;
         }
     
         .navigation {
@@ -136,10 +137,3 @@ title: No Study Zone
 </body>
 </html>
 
-
-<script>
-    const slides = document.querySelector('.slides');
-    const images = document.querySelectorAll('.slides img');
-    const prev = document.querySelector('.prev');
-    const next = document.querySelector('.next');
-    let index = 0;
