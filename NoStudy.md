@@ -45,7 +45,6 @@ title: No Study Zone
 </div><br>
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -107,6 +106,7 @@ title: No Study Zone
         <button class="next">&#10095;</button>
     </div>
 </div>
+
 
 <script>
     const slides = document.querySelector('.slides');
