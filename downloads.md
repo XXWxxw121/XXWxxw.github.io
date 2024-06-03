@@ -6,7 +6,7 @@ title: Downloads
 
 #### 1. LAB Logo 原图下载
 
-- <img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:7%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
+- <img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:5%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
 - <img src="https://usst-lilab.github.io/file/LiLAB.png" style="zoom:7%;">，[download](https://usst-lilab.github.io/file/LiLAB.png)
 - <img src="https://usst-lilab.github.io/file/QR code.png" style="zoom:10%;">，[dowload](https://usst-lilab.github.io/file/QR code.png)
 
