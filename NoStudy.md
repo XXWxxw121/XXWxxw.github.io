@@ -45,8 +45,8 @@ title: No Study Zone
 </div><br>
 
 
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,14 +62,13 @@ title: No Study Zone
             flex-direction: column;
         }
 
-
         .regular-images img {
-            max-width: 400px;
+            max-width: 500px;
             margin: 10px;
         }
     
         .slider-container {
-            width: 80%;
+            width: 300px; /* Set to the width of one image */
             overflow: hidden;
             position: relative;
             margin-top: 20px;
@@ -83,7 +82,6 @@ title: No Study Zone
         .slider img {
             width: 100%;
             max-width: 300px;
-            margin: 0 10px;
             flex-shrink: 0;
         }
     
@@ -126,7 +124,7 @@ title: No Study Zone
             const slider = document.querySelector('.slider');
             const images = document.querySelectorAll('.slider img');
             const totalImages = images.length;
-            const imageWidth = images[0].clientWidth + 20; // Including margin
+            const imageWidth = images[0].clientWidth; // Exact width of one image
     
             currentIndex += direction;
     
@@ -141,4 +139,3 @@ title: No Study Zone
     </script>
 </body>
 </html>
-
