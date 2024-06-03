@@ -39,6 +39,10 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg">
 </div><br>
+<div align="center">
+<img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
+</div><br>
+
 
 
 <html lang="en">
@@ -108,6 +112,7 @@ title: No Study Zone
     <div class="slider-container">
         <button class="arrow left" onclick="slide(-1)">&#10094;</button>
         <div class="slider">
+            <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 1">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 2">
             <img src="https://usst-lilab.github.io/images/NoStudy/bag3.jpg" alt="Image 3">
         </div>
