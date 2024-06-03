@@ -45,15 +45,14 @@ title: No Study Zone
 </div><br>
 
 
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.6">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Slider</title>
     <style>
         * { box-sizing: border-box; }
-
 
         .slider {
             position: relative;
@@ -69,10 +68,12 @@ title: No Study Zone
         }
     
         .slides img {
-            width: 100%; /* 将图片宽度设置为容器的100% */
-            /* 如果需要设置固定大小，可以使用以下代码替换上面两行 */
-            /* width: 500px; */
+            /* 将图片宽度设置为容器的100% */
+            width: 100%;
+            /* 设置图片高度为固定值，确保图片在滑动前不会重叠 */
             height: 300px; 
+            /* 保持图片宽高比例，避免拉伸 */
+            object-fit: cover;
         }
     
         .navigation {
@@ -117,8 +118,10 @@ title: No Study Zone
     let index = 0;
 
     function showSlide(idx) {
-        const width = images[0].clientWidth;
-        slides.style.transform = `translateX(${-width * idx}px)`;
+        const offset = Array.from(images)
+            .slice(0, idx)
+            .reduce((acc, img) => acc + img.clientWidth, 0);
+        slides.style.transform = `translateX(${-offset}px)`;
     }
     
     prev.addEventListener('click', () => {
@@ -131,9 +134,16 @@ title: No Study Zone
         showSlide(index);
     });
     
-    // Adjust the slide position on window resize
     window.addEventListener('resize', () => showSlide(index));
 </script>
 
 </body>
 </html>
+
+
+<script>
+    const slides = document.querySelector('.slides');
+    const images = document.querySelectorAll('.slides img');
+    const prev = document.querySelector('.prev');
+    const next = document.querySelector('.next');
+    let index = 0;
