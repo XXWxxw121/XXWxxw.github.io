@@ -52,12 +52,12 @@ title: No Study Zone
 
 
         .regular-images img {
-            max-width: 500px;
+            max-width: 400px;
             margin: 10px;
         }
     
         .slider-container {
-        width: 500px; /* Adjust to fit the largest image width */
+        width: 400px; /* Adjust to fit the largest image width */
         overflow: hidden;
         position: relative;
         margin-top: 20px;
@@ -70,7 +70,7 @@ title: No Study Zone
     
     .slider img {
         width: 100%;
-        max-width: 500px; /* Adjust to fit the largest image width */
+        max-width: 400px; /* Adjust to fit the largest image width */
         flex-shrink: 0;
         object-fit: contain; /* Preserve aspect ratio */
     }
