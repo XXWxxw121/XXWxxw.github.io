@@ -41,6 +41,8 @@ title: No Study Zone
 </div><br>
 
 
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,14 +63,11 @@ title: No Study Zone
         .slides {
             display: flex;
             transition: transform 0.5s ease-in-out;
-            width: 300%; /* Ensure slides are wide enough to contain all images */
         }
         .slides img {
             max-width: 100%;
-            max-height: 100%;
-            width: auto;
             height: auto;
-            object-fit: contain; /* Maintain aspect ratio while fitting within container */
+            display: block;
         }
         .navigation {
             position: absolute;
@@ -124,7 +123,7 @@ title: No Study Zone
         });
     
         function updateSlidePosition() {
-            slides.style.transform = `translateX(-${currentIndex * (100 / totalImages)}%)`;
+            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
         }
     </script>
 </body>
