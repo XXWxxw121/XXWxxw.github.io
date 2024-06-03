@@ -41,93 +41,109 @@ title: No Study Zone
 </div><br>
 
 
-
-
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Carousel</title>
-  <style>
-    .carousel {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      height: 500px;
-      overflow: hidden;
-    }
 
-    .carousel img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-      transition: transform 0.5s ease;
-    }
-    
-    .prev, .next {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      font-size: 30px;
-      color: white;
-      background-color: rgba(0, 0, 0, 0.5);
-      padding: 10px;
-      cursor: pointer;
-    }
-    
-    .prev {
-      left: 20px;
-    }
-    
-    .next {
-      right: 20px;
-    }
-  </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        .slider-container {
+            position: relative;
+            max-width: 80%;
+            margin: auto;
+            overflow: hidden;
+            border: 1px solid #ddd;
+            background: #fff;
+        }
+        .slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+        .slide {
+            min-width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .slide img {
+            max-width: 100%;
+            max-height: 100vh;
+            height: auto;
+            width: auto;
+            object-fit: contain; /* Maintain aspect ratio */
+        }
+        .navigation {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+        .navigation button {
+            background: rgba(0, 0, 0, 0.5);
+            border: none;
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        .navigation button:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+    </style>
 </head>
 <body>
-  <div class="carousel">
-    <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
-    <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
-    <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
-    <div class="prev">&lt;</div>
-    <div class="next">&gt;</div>
-  </div>
+    <div class="content">
+        <div class="slider-container">
+            <div class="slides">
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
+                </div>
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
+                </div>
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/bag.png" alt="Image 3">
+                </div>
+            </div>
+            <div class="navigation">
+                <button id="prev">&#10094;</button>
+                <button id="next">&#10095;</button>
+            </div>
+        </div>
+    </div>
 
-  <script>
-    const carousel = document.querySelector('.carousel');
-    const images = carousel.querySelectorAll('img');
-    const prevBtn = carousel.querySelector('.prev');
-    const nextBtn = carousel.querySelector('.next');
 
-    let currentIndex = 0;
+    <script>
+        let currentIndex = 0;
+        const slides = document.querySelector('.slides');
+        const slideElements = document.querySelectorAll('.slide');
+        const totalSlides = slideElements.length;
     
-    function showImage(index) {
-      images.forEach((img, i) => {
-        if (i === index) {
-          img.style.transform = 'translateX(0)';
-        } else if (i < index) {
-          img.style.transform = 'translateX(-100%)';
-        } else {
-          img.style.transform = 'translateX(100%)';
+        document.getElementById('next').addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % totalSlides;
+            updateSlidePosition();
+        });
+    
+        document.getElementById('prev').addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+            updateSlidePosition();
+        });
+    
+        function updateSlidePosition() {
+            slides.style.transform = `translateX(-${currentIndex * 100}%)`;
         }
-      });
-    }
-    
-    prevBtn.addEventListener('click', () => {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
-    });
-    
-    nextBtn.addEventListener('click', () => {
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
-    });
-    
-    showImage(currentIndex);
-  </script>
+    </script>
 </body>
 </html>
+
+
 
 
 
