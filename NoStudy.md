@@ -43,9 +43,8 @@ title: No Study Zone
 
 
 
-
-
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -54,16 +53,7 @@ title: No Study Zone
         * {
             box-sizing: border-box;
         }
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-        }
-        .slider {
+        .slider-container {
             position: relative;
             max-width: 80%;
             margin: auto;
@@ -87,6 +77,7 @@ title: No Study Zone
             display: flex;
             justify-content: space-between;
             transform: translateY(-50%);
+            z-index: 1;
         }
         .navigation button {
             background: rgba(0, 0, 0, 0.5);
@@ -102,17 +93,21 @@ title: No Study Zone
     </style>
 </head>
 <body>
-    <div class="slider">
-        <div class="slides">
-            <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
-            <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
-            <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
+    <div class="content">
+        <div class="slider-container">
+            <div class="slides">
+                <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg" alt="Image 1">
+                <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg" alt="Image 2">
+                <img src="https://usst-lilab.github.io/images/NoStudy/bag2.jpg" alt="Image 3">
+            </div>
+            <div class="navigation">
+                <button id="prev">&#10094;</button>
+                <button id="next">&#10095;</button>
+            </div>
         </div>
-        <div class="navigation">
-            <button id="prev">&#10094;</button>
-            <button id="next">&#10095;</button>
-        </div>
+        <p>More content here.</p>
     </div>
+
 
     <script>
         let currentIndex = 0;
