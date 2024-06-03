@@ -43,10 +43,7 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag.png">
 </div><br>
-
-
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,17 +59,18 @@ title: No Study Zone
             flex-direction: column;
         }
 
-
         .regular-images img {
             max-width: 500px;
             margin: 10px;
         }
     
         .slider-container {
-            width: 400px; /* Set to the width of one image */
+            width: 80%; /* Adjust width as needed */
             overflow: hidden;
             position: relative;
             margin-top: 20px;
+            display: flex;
+            justify-content: center;
         }
     
         .slider {
@@ -82,8 +80,9 @@ title: No Study Zone
     
         .slider img {
             width: 100%;
-            max-width: 400px;
+            max-width: 300px;
             flex-shrink: 0;
+            margin: 0 5px; /* Adding margin to center align images */
         }
     
         .arrow {
@@ -125,7 +124,7 @@ title: No Study Zone
             const slider = document.querySelector('.slider');
             const images = document.querySelectorAll('.slider img');
             const totalImages = images.length;
-            const imageWidth = images[0].clientWidth; // Exact width of one image
+            const imageWidth = images[0].clientWidth + 10; // Including margin
     
             currentIndex += direction;
     
