@@ -46,6 +46,7 @@ title: No Study Zone
 
 
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,13 +62,14 @@ title: No Study Zone
             flex-direction: column;
         }
 
+
         .regular-images img {
             max-width: 500px;
             margin: 10px;
         }
     
         .slider-container {
-            width: 300px; /* Set to the width of one image */
+            width: 400px; /* Set to the width of one image */
             overflow: hidden;
             position: relative;
             margin-top: 20px;
@@ -80,7 +82,7 @@ title: No Study Zone
     
         .slider img {
             width: 100%;
-            max-width: 300px;
+            max-width: 400px;
             flex-shrink: 0;
         }
     
