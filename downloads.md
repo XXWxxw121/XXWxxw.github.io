@@ -35,3 +35,39 @@ title: Downloads
 - [doi2bib](https://www.doi2bib.org/)
 
 #### 5.LiLAB介绍
+<html>
+
+<head>
+  <img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"><title>视频密码验证</title>
+  <style>
+    #password-form {
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="password-form">
+    <h6>请输入密码以播放视频</h6>
+    <input type="password" id="password-input">
+    <br><br>
+    <button onclick="checkPassword()">提交</button>
+    <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
+  </div>  <video width="80%" id="video-player" style="display: none;" controls>
+
+    <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
+  </video><script>
+    function checkPassword() {
+      var enteredPassword = document.getElementById('password-input').value;
+      var correctPassword = 'usstlilab'; // 设置正确的密码
+      if (enteredPassword === correctPassword) {
+    document.getElementById('password-form').style.display = 'none';
+    document.getElementById('video-player').style.display = 'block';
+    document.getElementById('video-player').play();
+  } else {
+    document.getElementById('error-message').style.display = 'block';
+  }
+}</script>
+</body>
+</html>
