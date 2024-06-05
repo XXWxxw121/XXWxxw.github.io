@@ -38,7 +38,7 @@ title: Downloads
 <html>
 
 <head>
-  <img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"><title>视频密码验证</title>
+  <title>视频密码验证</title>
   <style>
     #password-form {
       text-align: center;
@@ -49,7 +49,7 @@ title: Downloads
 <body>
 
   <div id="password-form">
-    <h6>请输入密码以播放视频</h6>
+    <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;">请输入密码以播放视频</h6>
     <input type="password" id="password-input">
     <br><br>
     <button onclick="checkPassword()">提交</button>
