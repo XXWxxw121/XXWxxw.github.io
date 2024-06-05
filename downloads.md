@@ -56,7 +56,7 @@ title: Downloads
     <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
   </div>  <video width="80%" id="video-player" style="display: none;" controls>
 
-    <source src="https://usst-lilab.github.io/images/video/uav.mp4" type="video/mp4">
+    <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
   </video><script>
     function checkPassword() {
       var enteredPassword = document.getElementById('password-input').value;
