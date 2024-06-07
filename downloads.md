@@ -32,6 +32,7 @@ title: Downloads
 - [上海理工大学](https://www.usst.edu.cn/main.htm)，[理学院](https://lxy.usst.edu.cn/main.htm)
 - 校园邮箱登录入口：[教师](https://mail.usst.edu.cn/)，[学生](https://edu.icoremail.net/coremail/)
 - [Overleaf](https://www.overleaf.com/)，[doi2bib](https://www.doi2bib.org/)
+- [inControl](https://www.incontrolpodcast.com/)
 
 #### 5.LiLAB介绍
 <html>
