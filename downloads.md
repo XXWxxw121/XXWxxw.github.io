@@ -6,15 +6,18 @@ title: Downloads
 
 #### 1. LAB Logo 原图下载
 
-- <img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:5%;">，[download](https://usst-lilab.github.io/file/LAB logo.png)
-- <img src="https://usst-lilab.github.io/file/LiLAB.png" style="zoom:7%;">，[download](https://usst-lilab.github.io/file/LiLAB.png)
-- <img src="https://usst-lilab.github.io/file/QR code.png" style="zoom:10%;">，[dowload](https://usst-lilab.github.io/file/QR code.png)
+- <img src="https://usst-lilab.github.io/file/LAB logo.png" style="zoom:5%;">，
+
+  [download](https://usst-lilab.github.io/file/LAB logo.png)
+
+- <img src="https://usst-lilab.github.io/file/LiLAB.png" style="zoom:7%;">，<img src="https://usst-lilab.github.io/file/QR code.png" style="zoom:10%;">，
+
+  [download](https://usst-lilab.github.io/file/LiLAB.png)，[dowload](https://usst-lilab.github.io/file/QR code.png)
 
 #### 2. 常用软件与工具
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
-- [CVX](https://cvxr.com/cvx/)
-- [YALMIP](https://yalmip.github.io/)
+- [CVX](https://cvxr.com/cvx/)，[YALMIP](https://yalmip.github.io/)
 
 #### 3.毕业相关
 
@@ -26,13 +29,9 @@ title: Downloads
 
 #### 4. Some useful links
 
-- [上海理工大学](https://www.usst.edu.cn/main.htm)
-- [理学院](https://lxy.usst.edu.cn/main.htm)
-- 校园邮箱登录
-  - [教师](https://mail.usst.edu.cn/)
-  - [学生](https://edu.icoremail.net/coremail/)
-- [Overleaf](https://www.overleaf.com/)
-- [doi2bib](https://www.doi2bib.org/)
+- [上海理工大学](https://www.usst.edu.cn/main.htm)，[理学院](https://lxy.usst.edu.cn/main.htm)
+- 校园邮箱登录入口：[教师](https://mail.usst.edu.cn/)，[学生](https://edu.icoremail.net/coremail/)
+- [Overleaf](https://www.overleaf.com/)，[doi2bib](https://www.doi2bib.org/)
 
 #### 5.LiLAB介绍
 <html>
