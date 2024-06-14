@@ -20,6 +20,34 @@ title: members
 
 #### Members
 
+##### @2024
+
+<img src="https://usst-lilab.github.io/images/teams/fengyan.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Yan Feng 冯焱
+
+  
+
+- 研究方向：Information Fusion
+
+  
+
+- 爱好：插花
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:1530315071@qq.com"> 1530315071@qq.com
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 知命不惧，日日自新
+
+---
+
+
+
 ##### @2023
 
 <img src="https://usst-lilab.github.io/images/teams/yangyanling.jpg" class="floatpic" width="50" height="75">
