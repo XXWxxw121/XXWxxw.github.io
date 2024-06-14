@@ -19,7 +19,11 @@ title: Downloads
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [CVX](https://cvxr.com/cvx/)，[YALMIP](https://yalmip.github.io/)
 
-#### 3.毕业相关
+#### 3.学习资料
+
+- [常用不等式](https://usst-lilab.github.io/file/ineq.pdf)
+
+#### 4.毕业相关
 
 - [硕博士论文LaTex模板 (非官方)](https://usst-lilab.github.io/file/The unofficial LaTeX thesis template for USST (上海理工大学非官方LaTex模版).zip)
    - [Overleaf](https://www.overleaf.com/latex/templates/the-unofficial-latex-thesis-template-for-usst-shang-hai-li-gong-da-xue-fei-guan-fang-latexmo-ban/zwkphyybmjyv) (推荐), developed by Wangyan Li.
@@ -27,14 +31,14 @@ title: Downloads
 - [答辩决议模板](https://usst-lilab.github.io/file/答辩决议.docx)
 - [答辩PPT模板](https://usst-lilab.github.io/file/实验室PPT模板.pptx)
 
-#### 4. Some useful links
+#### 5. Some useful links
 
 - [上海理工大学](https://www.usst.edu.cn/main.htm)，[理学院](https://lxy.usst.edu.cn/main.htm)
 - 校园邮箱登录入口：[教师](https://mail.usst.edu.cn/)，[学生](https://edu.icoremail.net/coremail/)
 - [Overleaf](https://www.overleaf.com/)，[doi2bib](https://www.doi2bib.org/)
 - [inControl](https://www.incontrolpodcast.com/)
 
-#### 5.LiLAB介绍
+#### 6.LiLAB介绍
 <html>
 
 <head>
