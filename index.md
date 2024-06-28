@@ -34,20 +34,27 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 #### News and Updates
 
 - 2024：2025级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
+
 - 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。
+
 - 2024-05-23：多源数据融合与分析实验中心官网正式上线。
+
 - 2024-05-22：本实验室（李忘言、向宇、杨燕翎）和李佳珈老师课题组（李佳珈、徐曼）联合申报关于[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)项目获批。
+
 - 2024-05-16：祝贺2021级硕士研究生胡玉如、耿小毛同学顺利通过硕士论文答辩。
 
-<div align="center">
-    <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="550"><br><br>
-</div>
+  <div align="center">
+      <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="550"><br><br>
+  </div>
+
 - 2024-05-10：LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)，[Poster](https://usst-lilab.github.io/file/Poster.png)。
+
 - 2024-05-09：多源数据融合与分析实验中心（LiLAB）成立一周年。
 
-<div align="center">
-    <img src="https://usst-lilab.github.io/images/index/oneyear2.png" width="600"><br><br>
-</div>
+  <div align="center">
+      <img src="https://usst-lilab.github.io/images/index/oneyear2.png" width="600"><br><br>
+  </div>
+
 - 2024-04-23：多源数据融合与分析实验中心官网试运行。
 - 2024-04-21：由 Wangyan Li, Sirui Li, Jian Song, Jie Bao, Yitao Yan, Yanlin Yang 共同完成的会议论文 *<u>Fault Detection for Nonlinear Process Using Data-Based Dissipativity in A Lifted Space</u>* 被 *The 14th Asian Control Conference ([ASCC 2024](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1))*  接收。
 - 2024-02-26：LiLAB 成员与 UNSW PROMO group 一同参加 BAJC 会议，详见 [BAJC Conference](https://www.unsw.edu.au/news/2024/02/shen-lab-sends-delegates-to-bajc-conference-2024)。
