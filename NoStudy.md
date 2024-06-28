@@ -6,13 +6,14 @@ title: No Study Zone
 
 #### LiLAB × Friends
 
-##### LiLAB × [UNSW Computer Process Control Group](https://www.unsw.edu.au/research/computer-process-control-group)
+##### LiLAB × 上海理工大学附属普陀实验学校
 
-###### 2024.03.18
+###### 2024.06.24
 
 <div align="center">
-<img src="https://usst-lilab.github.io/images/NoStudy/5.jpg">
+<img src="https://usst-lilab.github.io/images/NoStudy/uav activity.jpg">
 </div><br>
+
 
 
 
@@ -23,6 +24,16 @@ title: No Study Zone
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/228.jpg">
 </div><br>
+##### LiLAB × [UNSW Computer Process Control Group](https://www.unsw.edu.au/research/computer-process-control-group)
+
+###### 2024.03.18
+
+<div align="center">
+<img src="https://usst-lilab.github.io/images/NoStudy/5.jpg">
+</div><br>
+
+
+
 ##### LiLAB + (Xiaozhen, Yaolei, Dou)
 
 ###### 2023.06.23
