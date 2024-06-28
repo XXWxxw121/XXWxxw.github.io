@@ -62,10 +62,6 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2426802077@qq.com"> 2426802077@qq.com
-
-  
-
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 你一定能够成为你想要去成为的人
 
   
@@ -87,10 +83,6 @@ title: members
   
 
 - 爱好：唱歌，吉他
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:18375105376@163.com"> 18375105376@163.com
 
   
 
@@ -118,10 +110,6 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:hcxygxgn@163.com"> hcxygxgn@163.com
-
-  
-
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 恭谦温良，知行合一
 
 ---
@@ -144,10 +132,6 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:song74516@163.com"> song74516@163.com
-
-  
-
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 经事长智，历事成人
 
 ---
@@ -167,10 +151,6 @@ title: members
   
 
 - 爱好：烘焙
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2522124539@qq.com"> 2522124539@qq.com
 
   
 
@@ -198,10 +178,6 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2330544480@qq.com"> 2330544480@qq.com
-
-  
-
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 生活想埋没我，不料我是颗种子
 
 ---
@@ -221,10 +197,6 @@ title: members
   
 
 - 爱好：游戏，学习
-
-  
-
-- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:2971592350@qq.com"> 2971592350@qq.com
 
   
 
