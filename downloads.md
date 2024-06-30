@@ -47,12 +47,23 @@ title: Downloads
       text-align: center;
       margin-top: 100px;
     }
+    
+    #video-container {
+      text-align: center;
+    }
+    
+    #video-player {
+      display: none;
+      width: 80%;
+    }
   </style>
 </head>
 <body>
-  <video width="80%" id="video-player" style="display: none;" controls>
-    <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
-  </video>
+  <div id="video-container">
+    <video id="video-player" controls>
+      <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
+    </video>
+  </div>
   
   <div id="password-form">
     <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
