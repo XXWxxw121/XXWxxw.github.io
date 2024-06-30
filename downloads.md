@@ -48,10 +48,6 @@ title: Downloads
       margin-top: 100px;
     }
     
-    #video-container {
-      text-align: center;
-    }
-    
     #video-player {
       display: none;
       width: 80%;
@@ -79,8 +75,9 @@ title: Downloads
       var correctPassword = 'usstlilab'; // 设置正确的密码
       if (enteredPassword === correctPassword) {
         document.getElementById('password-form').style.display = 'none';
-        document.getElementById('video-player').style.display = 'block';
-        document.getElementById('video-player').play();
+        var videoPlayer = document.getElementById('video-player');
+        videoPlayer.style.display = 'block';
+        videoPlayer.play();
       } else {
         document.getElementById('error-message').style.display = 'block';
       }
