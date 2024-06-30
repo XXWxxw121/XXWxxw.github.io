@@ -40,7 +40,6 @@ title: Downloads
 
 #### 6.LiLAB介绍
 <html>
-
 <head>
   <title>视频密码验证</title>
   <style>
@@ -51,27 +50,30 @@ title: Downloads
   </style>
 </head>
 <body>
-
-  <div id="password-form">
+  <video width="80%" id="video-player" controls>
+    <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
+  </video>
+  
+  <div id="password-form" style="display: none;">
     <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
     <input type="password" id="password-input">
     <br><br>
     <button onclick="checkPassword()">提交</button>
     <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
-  </div>  <video width="80%" id="video-player" style="display: none;" controls>
-
-    <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
-  </video><script>
+  </div>
+  
+  <script>
     function checkPassword() {
       var enteredPassword = document.getElementById('password-input').value;
       var correctPassword = 'usstlilab'; // 设置正确的密码
       if (enteredPassword === correctPassword) {
-    document.getElementById('password-form').style.display = 'none';
-    document.getElementById('video-player').style.display = 'block';
-    document.getElementById('video-player').play();
-  } else {
-    document.getElementById('error-message').style.display = 'block';
-  }
-}</script>
+        document.getElementById('password-form').style.display = 'none';
+        document.getElementById('video-player').style.display = 'block';
+        document.getElementById('video-player').play();
+      } else {
+        document.getElementById('error-message').style.display = 'block';
+      }
+    }
+  </script>
 </body>
 </html>
