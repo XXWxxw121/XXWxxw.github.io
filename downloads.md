@@ -81,8 +81,28 @@ title: Downloads
         }
         #password-input {
             margin-top: 10px;
-            padding: 5px;
+            padding: 10px;
             font-size: 16px;
+            border: none;
+            border-radius: 5px;
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #error-message {
+            display: none;
+            color: red;
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -97,7 +117,7 @@ title: Downloads
         <div>Please enter the password to watch the video</div>
         <input type="password" id="password-input" placeholder="Enter password">
         <button onclick="checkPassword()">Submit</button>
-        <div id="error-message" style="display:none; color: red; margin-top: 10px;">Incorrect password, please try again.</div>
+        <div id="error-message">Incorrect password, please try again.</div>
     </div>
 </div>
 
