@@ -50,11 +50,11 @@ title: Downloads
   </style>
 </head>
 <body>
-  <video width="80%" id="video-player" controls>
+  <video width="80%" id="video-player" style="display: none;" controls>
     <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
   </video>
   
-  <div id="password-form" style="display: none;">
+  <div id="password-form">
     <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
     <input type="password" id="password-input">
     <br><br>
