@@ -39,49 +39,82 @@ title: Downloads
 - [inControl](https://www.incontrolpodcast.com/)
 
 #### 6.LiLAB介绍
-<html>
+<html lang="en">
 <head>
-  <title>视频密码验证</title>
-  <style>
-    #password-form {
-      text-align: center;
-      margin-top: 100px;
-    }
-    
-    #video-player {
-      display: none;
-      width: 80%;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protected Video</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .video-container {
+            position: relative;
+            width: 640px;
+            height: 360px;
+        }
+        video {
+            width: 100%;
+            height: 100%;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .overlay.hidden {
+            display: none;
+        }
+        #password-input {
+            margin-top: 10px;
+            padding: 5px;
+            font-size: 16px;
+        }
+    </style>
 </head>
 <body>
-  <div id="video-container">
-    <video id="video-player" controls>
-      <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
+
+<div class="video-container">
+    <video id="video" controls>
+        <source src="your-video-file.mp4" type="video/mp4">
+        Your browser does not support the video tag.
     </video>
-  </div>
-  
-  <div id="password-form">
-    <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
-    <input type="password" id="password-input">
-    <br><br>
-    <button onclick="checkPassword()">提交</button>
-    <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
-  </div>
-  
-  <script>
+    <div id="overlay" class="overlay">
+        <div>Please enter the password to watch the video</div>
+        <input type="password" id="password-input" placeholder="Enter password">
+        <button onclick="checkPassword()">Submit</button>
+        <div id="error-message" style="display:none; color: red; margin-top: 10px;">Incorrect password, please try again.</div>
+    </div>
+</div>
+
+<script>
+    const correctPassword = "your-password"; // Replace with your desired password
+
     function checkPassword() {
-      var enteredPassword = document.getElementById('password-input').value;
-      var correctPassword = 'usstlilab'; // 设置正确的密码
-      if (enteredPassword === correctPassword) {
-        document.getElementById('password-form').style.display = 'none';
-        var videoPlayer = document.getElementById('video-player');
-        videoPlayer.style.display = 'block';
-        videoPlayer.play();
-      } else {
-        document.getElementById('error-message').style.display = 'block';
-      }
+        const inputPassword = document.getElementById('password-input').value;
+        if (inputPassword === correctPassword) {
+            document.getElementById('overlay').classList.add('hidden');
+            document.getElementById('error-message').style.display = 'none';
+            document.getElementById('video').play();
+        } else {
+            document.getElementById('error-message').style.display = 'block';
+        }
     }
-  </script>
+</script>
+
 </body>
 </html>
