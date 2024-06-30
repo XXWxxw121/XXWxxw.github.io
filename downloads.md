@@ -39,102 +39,41 @@ title: Downloads
 - [inControl](https://www.incontrolpodcast.com/)
 
 #### 6.LiLAB介绍
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Protected Video</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        .video-container {
-            position: relative;
-            width: 640px;
-            height: 360px;
-        }
-        video {
-            width: 100%;
-            height: 100%;
-        }
-        .overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
-        .overlay.hidden {
-            display: none;
-        }
-        #password-input {
-            margin-top: 10px;
-            padding: 10px;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-        }
-        button {
-            margin-top: 10px;
-            padding: 10px 20px;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-            background-color: #007bff;
-            color: white;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-        #error-message {
-            display: none;
-            color: red;
-            margin-top: 10px;
-        }
-    </style>
+  <title>视频密码验证</title>
+  <style>
+    #password-form {
+      text-align: center;
+      margin-top: 100px;
+    }
+  </style>
 </head>
 <body>
-
-<div class="video-container">
-    <video id="video" controls>
-        <source src="your-video-file.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <div id="overlay" class="overlay">
-        <div>Please enter the password to watch the video</div>
-        <input type="password" id="password-input" placeholder="Enter password">
-        <button onclick="checkPassword()">Submit</button>
-        <div id="error-message">Incorrect password, please try again.</div>
-    </div>
-</div>
-
-<script>
-    const correctPassword = "your-password"; // Replace with your desired password
-
+  <video width="80%" id="video-player" controls>
+    <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
+  </video>
+  
+  <div id="password-form" style="display: none;">
+    <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
+    <input type="password" id="password-input">
+    <br><br>
+    <button onclick="checkPassword()">提交</button>
+    <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
+  </div>
+  
+  <script>
     function checkPassword() {
-        const inputPassword = document.getElementById('password-input').value;
-        if (inputPassword === correctPassword) {
-            document.getElementById('overlay').classList.add('hidden');
-            document.getElementById('error-message').style.display = 'none';
-            document.getElementById('video').play();
-        } else {
-            document.getElementById('error-message').style.display = 'block';
-        }
+      var enteredPassword = document.getElementById('password-input').value;
+      var correctPassword = 'usstlilab'; // 设置正确的密码
+      if (enteredPassword === correctPassword) {
+        document.getElementById('password-form').style.display = 'none';
+        document.getElementById('video-player').style.display = 'block';
+        document.getElementById('video-player').play();
+      } else {
+        document.getElementById('error-message').style.display = 'block';
+      }
     }
-</script>
-
+  </script>
 </body>
 </html>
