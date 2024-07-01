@@ -8,7 +8,7 @@ title: No Study Zone
 
 ##### LiLAB × 上海理工大学附属普陀实验学校
 
-###### 2024.06.24
+###### 2024.06.24（[Pictures&Videos](https://pan.baidu.com/wap/init?surl=7ZJBnmMoXeMhyjac2PC8IQ&pwd=68S9)）
 
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/uav activity.jpg">
