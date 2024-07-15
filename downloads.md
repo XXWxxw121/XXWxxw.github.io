@@ -34,6 +34,7 @@ title: Downloads
 #### 5. Some useful links
 
 - [上海理工大学](https://www.usst.edu.cn/main.htm)，[理学院](https://lxy.usst.edu.cn/main.htm)
+- [校外访问CARSI文献资源（无需VPN）](https://usst-lilab.github.io/file/校外访问CARSI文献资源（无需VPN）.pdf)
 - 校园邮箱登录入口：[教师](https://mail.usst.edu.cn/)，[学生](https://edu.icoremail.net/coremail/)
 - [Overleaf](https://www.overleaf.com/)，[doi2bib](https://www.doi2bib.org/)
 - [inControl](https://www.incontrolpodcast.com/)
@@ -53,7 +54,7 @@ title: Downloads
   <video width="80%" id="video-player" style="display: none;" controls>
     <source src="https://usst-lilab.github.io/file/LiLAB.mp4" type="video/mp4">
   </video>
-  
+
   <div id="password-form">
     <h6><img src="https://usst-lilab.github.io/images/logo/passport.png" alt="Email Icon" style="width: 22px; height: 22px;"> Enter Password to View Video</h6>
     <input type="password" id="password-input">
@@ -61,7 +62,7 @@ title: Downloads
     <button onclick="checkPassword()">提交</button>
     <p id="error-message" style="color: red; display: none;">密码错误，请重试</p>
   </div>
-  
+
   <script>
     function checkPassword() {
       var enteredPassword = document.getElementById('password-input').value;
