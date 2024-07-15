@@ -33,7 +33,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 #### News and Updates
 
-- 2024：2025级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
+- [长期有效]：2025级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
 - 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。
 
