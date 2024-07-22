@@ -44,6 +44,32 @@ title: members
 
 - <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 知命不惧，日日自新
 
+
+
+---
+
+<img src="https://usst-lilab.github.io/images/teams/huyihao.jpg" class="floatpic" width="50" height="75">
+
+
+
+- Yihao Hu 胡毅灏
+
+  
+
+- 研究方向：无人机
+
+  
+
+- 爱好：篮球，唱歌
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/email.png" alt="Email Icon" style="width: 40px; height: 30px;"><a href="mailto:1786640785@qq.com"> 1786640785@qq.com
+
+  
+
+- <img src="https://usst-lilab.github.io/images/logo/座右铭.png" alt="Email Icon" style="width: 30px; height: 20px;"> 从泥土到星辰
+
 ---
 
 
