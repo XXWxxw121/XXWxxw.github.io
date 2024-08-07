@@ -38,7 +38,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 - 2024-07-05：LiLAB成员：李思睿，杨燕翎参加在大连举办的[第14届亚洲控制会议](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1)。
 
   <div align="center">
-  <img src="https://usst-lilab.github.io/images/index/ASCC.jpg">
+  <img src="https://usst-lilab.github.io/images/index/ASCC2.png">
   </div><br>
 
 - 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。
