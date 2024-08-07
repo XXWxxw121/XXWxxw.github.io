@@ -113,6 +113,9 @@ title: No Study Zone
                 <div class="slide">
                     <img src="https://usst-lilab.github.io/images/NoStudy/version2.png" alt="Image 2">
                 </div>
+                <div class="slide">
+                    <img src="https://usst-lilab.github.io/images/NoStudy/version3.png" alt="Image 3">
+                </div>
             </div>
             <div class="navigation">
                 <button id="prev1">&#10094;</button>
