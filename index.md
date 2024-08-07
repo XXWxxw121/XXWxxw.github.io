@@ -41,11 +41,11 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
   <img src="https://usst-lilab.github.io/images/index/ASCC2.png">
   </div><br>
 
-- 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。
+- 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。详见报道其“[第三站 多源数据融合与分析实验中心](https://mp.weixin.qq.com/s/2RQ4X_BmDmI5UaHO_HoOpA)”
 
 - 2024-05-23：多源数据融合与分析实验中心官网正式上线。
 
-- 2024-05-22：本实验室（李忘言、向宇、杨燕翎）和李佳珈老师课题组联合申报关于[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)项目获批。
+- 2024-05-22：本实验室（李忘言、向宇）和李佳珈老师课题组联合申报关于[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)项目获批。
 
 - 2024-05-16：祝贺2021级硕士研究生胡玉如、耿小毛同学顺利通过硕士论文答辩。
 
