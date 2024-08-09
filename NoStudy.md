@@ -44,6 +44,8 @@ title: No Study Zone
 </div><br>
 ##### LAB周边
 
+###### @胶带
+
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/4.jpg">
 </div><br>
@@ -146,12 +148,18 @@ title: No Study Zone
 </body>
 </html><br>
 
+---
 
+###### @包包
 
 
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/bag1.jpg">
 </div><br>
+---
+
+###### @文化衫
+
 
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/T-shirts.jpg">
