@@ -8,6 +8,8 @@ title: No Study Zone
 
 ##### LiLAB × [UNSW Computer Process Control Group](https://www.unsw.edu.au/research/computer-process-control-group)
 
+###### 2024.09.03. A Group photo following [Prof. Biao Huang's talk ](https://usst-lilab.github.io/images/NoStudy/huangbiao.png)
+
 <div align="center">
 <img src="https://usst-lilab.github.io/images/NoStudy/Australia.jpg">
 </div><br>
