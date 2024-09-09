@@ -35,6 +35,10 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - [长期有效]：2025级硕士研究生招生尚有两个名额，欢迎各位保研同学及广大考生联系本实验室  <a href="mailto:Wangyan_Li@usst.edu.cn">Wangyan_Li@usst.edu.cn</a>
 
+- 2024-09-09：欢迎2024级研究生冯焱，胡毅灏正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
+
+- 2024-08-16：本实验室（李忘言、向宇）和李佳珈老师赴澳大利亚进行为期3周的[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)（[照片](https://usst-lilab.github.io/images/index/shisheng.jpg)）。
+
 - 2024-07-05：LiLAB成员：李思睿，杨燕翎参加在大连举办的[第14届亚洲控制会议](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1)。
 
   <div align="center">
@@ -44,8 +48,6 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 - 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。详见报道其“[第三站 多源数据融合与分析实验中心](https://mp.weixin.qq.com/s/2RQ4X_BmDmI5UaHO_HoOpA)”
 
 - 2024-05-23：多源数据融合与分析实验中心官网正式上线。
-
-- 2024-05-22：本实验室（李忘言、向宇）和李佳珈老师课题组联合申报关于[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)项目获批。
 
 - 2024-05-16：祝贺2021级硕士研究生胡玉如、耿小毛同学顺利通过硕士论文答辩。
 
