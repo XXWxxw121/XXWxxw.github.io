@@ -38,7 +38,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0003-3869-1222](https://orcid.org/0009-0003-3869-1222)
+- [ORCID: 0009-0003-3869-1222](https://orcid.org/0009-0003-3869-1222)
 
   
 
@@ -64,7 +64,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0009-1692-3196](https://orcid.org/0009-0009-1692-3196)
+- [ORCID: 0009-0009-1692-3196](https://orcid.org/0009-0009-1692-3196)
 
   
 
@@ -92,7 +92,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0009-9853-5161](https://orcid.org/0009-0009-9853-5161)
+- [ORCID: 0009-0009-9853-5161](https://orcid.org/0009-0009-9853-5161)
 
   
 
@@ -120,7 +120,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0004-6914-7921](https://orcid.org/0009-0004-6914-7921)
+- [ORCID: 0009-0004-6914-7921](https://orcid.org/0009-0004-6914-7921)
 
   
 
@@ -174,7 +174,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0009-9848-1183](https://orcid.org/0009-0009-9848-1183)
+- [ORCID: 0009-0009-9848-1183](https://orcid.org/0009-0009-9848-1183)
 
   
 
@@ -200,7 +200,7 @@ title: members
 
   
 
-- <img src="https://usst-lilab.github.io/images/logo/orcid.png" alt="Email Icon" style="width: 30px; height: 30px;">  [ORCID: 0009-0004-8494-6799](https://orcid.org/0009-0004-8494-6799)
+- [ORCID: 0009-0004-8494-6799](https://orcid.org/0009-0004-8494-6799)
 
   
 
