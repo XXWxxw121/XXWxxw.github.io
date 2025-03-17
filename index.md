@@ -3,10 +3,10 @@ layout: page
 ---
 
 <div align="center">
-    <img src="https://usst-lilab.github.io/实验室logo.png" width="900" height="150">
+    <img src="D:\gitrepository0311\XXWxxw.github.io/实验室logo.png" width="900" height="150">
 </div>
 
-<img src="https://usst-lilab.github.io/images/index/内景.jpg" class="floatpic" width="350" height="400">
+<img src="D:\gitrepository0311\XXWxxw.github.io/images/index/内景.jpg" class="floatpic" width="350" height="400">
 
 Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led by [A/Prof. Wangyan Li](https://lxy.usst.edu.cn/2022/0107/c2208a263867/page.htm) at the [University of Shanghai for Science and Technology](https://www.usst.edu.cn/main.htm) (USST). Our group is affiliated with the [College of Science](https://lxy.usst.edu.cn/main.htm). 
 
@@ -15,7 +15,7 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 本实验中心致力于建设以智慧交通为载体，集物联网、数字孪生技术与智慧电网平台于一体的综合性多源数据融合与分析的实验中心。远期目标是打造一个涵盖关键技术开发，应用服务的高水平“多源数据融合与分析”技术创新团队，建设成国内行业领先，若干领域达到国际先进水平。目前主要聚焦于智慧交通实验平台的建设。
 
 <div align="center">
-    <img src="https://usst-lilab.github.io/images/index/外景.png" width="600">
+    <img src="D:\gitrepository0311\XXWxxw.github.io/images/index/外景.png" width="600">
 </div>
 
 
@@ -37,12 +37,12 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 
 - 2024-09-09：欢迎2024级研究生冯焱，胡毅灏正式加入实验室，祝愿你们在LiLAB乘Li想之马，策马扬鞭，功不唐捐。
 
-- 2024-08-16：本实验室（李忘言、向宇）和李佳珈老师赴澳大利亚进行为期3周的[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)（[照片](https://usst-lilab.github.io/images/index/shisheng.jpg)）。
+- 2024-08-16：本实验室（李忘言、向宇）和李佳珈老师赴澳大利亚进行为期3周的[2024年度上海理工大学师生学术共同体](https://ie.usst.edu.cn/2024/0522/c8762a320764/page.htm)（[照片](D:\gitrepository0311\XXWxxw.github.io/images/index/shisheng.jpg)）。
 
 - 2024-07-05：LiLAB成员：李思睿，杨燕翎参加在大连举办的[第14届亚洲控制会议](https://ascc2024.dlut.edu.cn/Meeting/Default/Index_En?mid=b33811d2-a470-436f-9ad8-ca998c03a35d&page=1)。
 
   <div align="center">
-  <img src="https://usst-lilab.github.io/images/index/ASCC2.png">
+  <img src="D:\gitrepository0311\XXWxxw.github.io/images/index/ASCC2.png">
   </div><br>
 
 - 2024-06-24：多源数据融合与分析实验中心与上海理工大学附属普陀实验学校联名举办玩转无人机科创一日营活动。详见报道其“[第三站 多源数据融合与分析实验中心](https://mp.weixin.qq.com/s/2RQ4X_BmDmI5UaHO_HoOpA)”
@@ -52,15 +52,15 @@ Welcome to the USST Center for multi-source data fusion and analysis (MSDFA) led
 - 2024-05-16：祝贺2021级硕士研究生胡玉如、耿小毛同学顺利通过硕士论文答辩。
 
   <div align="center">
-      <img src="https://usst-lilab.github.io/images/index/graduation.jpg" width="550"><br><br>
+      <img src="D:\gitrepository0311\XXWxxw.github.io/images/index/graduation.jpg" width="550"><br><br>
   </div>
 
-- 2024-05-10：LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)，[Poster](https://usst-lilab.github.io/file/Poster.png)。
+- 2024-05-10：LiLAB成员：李忘言，宋健参加在深圳举办的[第三届全驱系统理论与应用会议](http://fasta2024.fasta.org.cn/)，[Poster](D:\gitrepository0311\XXWxxw.github.io/file/Poster.png)。
 
 - 2024-05-09：多源数据融合与分析实验中心（LiLAB）成立一周年。
 
   <div align="center">
-      <img src="https://usst-lilab.github.io/images/index/oneyear2.png" width="600"><br><br>
+      <img src="D:\gitrepository0311\XXWxxw.github.io/images/index/oneyear2.png" width="600"><br><br>
   </div>
 
 - 2024-04-23：多源数据融合与分析实验中心官网试运行。
